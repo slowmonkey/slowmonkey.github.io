@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Coding Standards: Code Comments"
+title: "Coding Standards: Code Comments"
 ---
+
 If I ever need to write comments in code I always think back to when I first started my commercial programming life. A senior developer told me to write comments surrounded by new lines.
 
 What does this mean?
