@@ -3,7 +3,10 @@ layout: post
 title: "Coding Standards: Code Comments"
 ---
 
-If I ever need to write comments in code I always think back to when I first started my commercial programming life. A senior developer told me to write comments surrounded by new lines.
+Code comments in commercial code should generally be avoided.  
+I mostly prefer self documenting code that removes the need for code comments.  
+
+However for the occasions that you do require code comments I prefer to write code comments surrounded by new lines/empty spaces.
 
 What does this mean?
 
