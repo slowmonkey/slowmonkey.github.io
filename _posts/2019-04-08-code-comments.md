@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Coding Standards: Code Comments"
+title: "Code Comments"
+categories: [2019, best-practices]
+tags: [coding-standards]
 ---
 
 Code comments in commercial code should generally be avoided.  
