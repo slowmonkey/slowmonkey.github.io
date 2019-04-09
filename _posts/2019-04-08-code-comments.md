@@ -5,7 +5,7 @@ categories: [2019, best-practices]
 tags: [coding-standards]
 ---
 
-Code comments in commercial code should generally be avoided.  
+Code comments in code should generally be avoided.  
 I mostly prefer self documenting code that removes the need for code comments.  
 
 However for the occasions that you do require code comments I prefer to write code comments surrounded by new lines/empty spaces.
@@ -38,6 +38,8 @@ Don't write code comments that are adjacent to code.
 The reason for this is you don't know what
 
 `//Get the line and check that it has the proper amount of characters refers to?`
+
+refers to.
 
 Does it refer to:
 
