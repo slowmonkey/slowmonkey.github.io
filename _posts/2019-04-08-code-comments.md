@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code Comments"
-categories: [2019, best-practices]
+categories: [best-practices]
 tags: [coding-standards]
 ---
 

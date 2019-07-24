@@ -5,6 +5,7 @@ categories: [security, raspberrypi]
 tags: [raspberrypi, pihole]
 ---
 
+# Table Of Contents <!-- omit in toc -->
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Installing an operating system onto the Raspberry Pi](#installing-an-operating-system-onto-the-raspberry-pi)
