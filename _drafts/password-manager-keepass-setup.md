@@ -4,6 +4,19 @@ title: "Password Manager KeePass Setup"
 categories: [security]
 tags: [passwordmanager, keepass]
 ---
+# Table of Contents <!-- omit in toc -->
+
+- [What is KeePass?](#what-is-keepass)
+- [Why should I use a password manager?](#why-should-i-use-a-password-manager)
+- [Introduction](#introduction)
+- [Setting up Google Drive](#setting-up-google-drive)
+- [Installation KeePass Portable Version](#installation-keepass-portable-version)
+- [Using KeePass](#using-keepass)
+- [Ensuring your KeePass database is backed up and corruption proof](#ensuring-your-keepass-database-is-backed-up-and-corruption-proof)
+  - [Create multiple copies of the database](#create-multiple-copies-of-the-database)
+  - [Synchronise Often between KeePass databases](#synchronise-often-between-keepass-databases)
+  - [Ensure the database is syncrhonised to your cloud storage](#ensure-the-database-is-syncrhonised-to-your-cloud-storage)
+  - [Do not synchronise KeePass databases whilst it is synchronising to the cloud storage.](#do-not-synchronise-keepass-databases-whilst-it-is-synchronising-to-the-cloud-storage)
 
 # What is KeePass?
 
