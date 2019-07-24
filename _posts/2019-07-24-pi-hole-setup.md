@@ -5,6 +5,9 @@ categories: [security, raspberrypi]
 tags: [raspberrypi, pihole]
 ---
 
+<!-- TOC -->autoauto- [Requirements](#requirements)auto- [Installing an operating system onto the Raspberry Pi](#installing-an-operating-system-onto-the-raspberry-pi)auto- [Enabling the Raspberry Pi for SSH connectivity](#enabling-the-raspberry-pi-for-ssh-connectivity)auto- [Connect Raspberry Pi to the network](#connect-raspberry-pi-to-the-network)auto- [Installing Pi-hole on the Raspberry Pi](#installing-pi-hole-on-the-raspberry-pi)auto- [Testing the Pi-hole](#testing-the-pi-hole)auto- [Configure devices on your network to use Pi-hole](#configure-devices-on-your-network-to-use-pi-hole)auto- [Issues I have encountered](#issues-i-have-encountered)auto    - [Nest Cams not connecting](#nest-cams-not-connecting)auto    - [Pi-hole dashboard is unreachable](#pi-hole-dashboard-is-unreachable)autoauto<!-- /TOC -->
+
+
 Pi-hole is network wide ad-blocking mechanism utilising a Raspberry Pi. It provides ad-blocking via a DHCP server and/or DNS Server.
 
 # Requirements
