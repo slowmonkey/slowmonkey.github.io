@@ -3,7 +3,6 @@ layout: post
 title: "Code Comments"
 categories: [2019, best-practices]
 tags: [coding-standards]
-breadcrumb: Code Comments
 ---
 
 Code comments in code should generally be avoided.  

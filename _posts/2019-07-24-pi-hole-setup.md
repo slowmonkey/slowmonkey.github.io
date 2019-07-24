@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Pi-Hole Setup"
-categories: [2019, raspberrypi]
-tags: [raspberrypi]
-breadcrumb: Pi-Hole Setup
+title: "Pi-hole Setup"
+categories: [security, raspberrypi]
+tags: [raspberrypi, pihole]
 ---
 
-Pi-Hole is network wide ad-blocking mechanism utilising a Raspberry Pi. It provides ad-blocking via a DHCP server and/or DNS Server.
+Pi-hole is network wide ad-blocking mechanism utilising a Raspberry Pi. It provides ad-blocking via a DHCP server and/or DNS Server.
 
 # Requirements
 1. Raspberry Pi
