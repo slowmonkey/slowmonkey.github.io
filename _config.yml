@@ -3,6 +3,8 @@ name: Gavin Chin
 description: Learning by breaking and failing
 avatar: https://avatars1.githubusercontent.com/u/1640786?s=400&u=8a4fb12c2808a08ff86315aa83f7a4f5535d2f04&v=4
 
+permalink: /:title.html
+
 exclude:
   - Gemfile
   - Gemfile.lock
