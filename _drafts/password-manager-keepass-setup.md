@@ -4,23 +4,24 @@ title: "Password Manager KeePass Setup"
 categories: [security]
 tags: [passwordmanager, keepass]
 ---
+Keepass is a light-weight and easy-to-use password manager.
+
 # Table of Contents <!-- omit in toc -->
 
-- [What is KeePass?](#what-is-keepass)
 - [Why should I use a password manager?](#why-should-i-use-a-password-manager)
 - [Introduction](#introduction)
 - [Setting up Google Drive](#setting-up-google-drive)
 - [Installation KeePass Portable Version](#installation-keepass-portable-version)
 - [Using KeePass](#using-keepass)
-- [Ensuring your KeePass database is backed up and corruption proof](#ensuring-your-keepass-database-is-backed-up-and-corruption-proof)
-  - [Create multiple copies of the database](#create-multiple-copies-of-the-database)
-  - [Synchronise Often between KeePass databases](#synchronise-often-between-keepass-databases)
-  - [Ensure the database is syncrhonised to your cloud storage](#ensure-the-database-is-syncrhonised-to-your-cloud-storage)
+- [KeePass database back ups](#keepass-database-back-ups)
+  - [Creating multiple copies of the database](#creating-multiple-copies-of-the-database)
+  - [Synchronise often between KeePass databases](#synchronise-often-between-keepass-databases)
+  - [Ensure the database is synchronised to your cloud storage](#ensure-the-database-is-synchronised-to-your-cloud-storage)
   - [Do not synchronise KeePass databases whilst it is synchronising to the cloud storage.](#do-not-synchronise-keepass-databases-whilst-it-is-synchronising-to-the-cloud-storage)
+- [Storing SSH Keys in KeePass](#storing-ssh-keys-in-keepass)
+- [Adding TOTP to your KeePass entries](#adding-totp-to-your-keepass-entries)
+- [Sharing KeePass databases](#sharing-keepass-databases)
 
-# What is KeePass?
-
-Keepass is a light-weight and easy-to-use password manager.
 
 # Why should I use a password manager?
 
@@ -58,15 +59,46 @@ You now have KeePass setup! It's as easy as that.
 
 Please follow the steps [here](https://keepass.info/help/base/firststeps.html) to add new entries and groups etc...
 
-# Ensuring your KeePass database is backed up and corruption proof
+# KeePass database back ups
 
 Aside from having the KeePass database synchronised to a cloud storage there are some prudent precautions one should take to keep your database safe from corruption or accidents.
 
-## Create multiple copies of the database
+I experienced weird glitches with Google Drive which caused my KeePass database to be deleted and I often experience database corruption due to the synchronisation failures of Google Drive.
 
-## Synchronise Often between KeePass databases
+Here are my steps to mitigate against these situations.
 
-## Ensure the database is syncrhonised to your cloud storage
+## Creating multiple copies of the database
+
+Create multiple copies of the database for each scenario.
+I currently use the following setup:
+
+- slowmonkey-master.kbdx
+- slowmonkey-home.kbdx
+- slowmonkey-work.kbdx
+- slwomonkey-phone.kbdx
+
+## Synchronise often between KeePass databases
+
+My current process is to synchronise to the other same databases, of different names, every few days or after various new entries.
+
+Make sure you synchronise to all the different copies of your database if you change your password.
+
+## Ensure the database is synchronised to your cloud storage
+
+I always ensure that the Google Drive sync application is always running.
 
 ## Do not synchronise KeePass databases whilst it is synchronising to the cloud storage.
 
+If syncing via Google Drive simultaneously syncing multiple KeePass databases via KeePass can lead to database corruptions.
+
+In otherwards open explorer to the database files and check that Google Drive is not doing any syncing on the files you're manipulating.
+
+# Storing SSH Keys in KeePass
+
+Following the instructions [here](https://code.mendhak.com/keepass-and-keeagent-setup/) to setup KeePass to store your SSH Keys and to use KeePass for SSH authentication by other programs.
+
+# Adding TOTP to your KeePass entries
+
+[Download](https://sourceforge.net/projects/traytotp-kp2/) and add the TrayTOTP plugin.
+
+# Sharing KeePass databases
