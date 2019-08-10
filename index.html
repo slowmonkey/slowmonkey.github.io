@@ -14,7 +14,7 @@ layout: default
           {{ post.excerpt }}
         </div>
   
-        <i><small>[{{ post.date | date_to_long_string }}]</small></i> <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        <i><sub>[{{ post.date | date_to_long_string }}]</sub></i> <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </article>
     {% endfor %}
   </div>
