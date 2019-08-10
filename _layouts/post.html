@@ -3,13 +3,13 @@ layout: default
 ---
 
 <article class="post">
+  <div class="date">
+    Written on {{ page.date | date: "%d %B %Y" }}
+  </div>  
+
   <h1><a href="{{ site.baseurl }}/"><img src="https://avatars1.githubusercontent.com/u/1640786?s=24&v=4" alt="Home"></a> >{{ page.title }}</h1>
 
   <div class="entry">
     {{ content }}
   </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%d %B %Y" }}
-  </div>  
 </article>
