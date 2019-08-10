@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Password Manager KeePass Setup"
+title: "KeePass Series - Installation & Setup"
 categories: [security]
 tags: [passwordmanager, keepass]
 ---
