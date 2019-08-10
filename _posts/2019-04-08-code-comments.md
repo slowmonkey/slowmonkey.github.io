@@ -5,8 +5,7 @@ categories: [best-practices]
 tags: [coding-standards]
 ---
 
-Code comments in code should generally be avoided.  
-I mostly prefer self documenting code that removes the need for code comments.  
+Code comments in code should generally be avoided. I mostly prefer self documenting code that removes the need for code comments.  
 
 However for the occasions that you do require code comments I prefer to write code comments surrounded by new lines/empty spaces.
 
