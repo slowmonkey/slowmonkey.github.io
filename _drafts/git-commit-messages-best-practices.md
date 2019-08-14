@@ -7,4 +7,4 @@ tags: [git]
 
 Best practice for git commit messages.
 
-<span style="font-size:36em;">"If applied, this commit will your subject line here"</span>
+<span style="font-size:36em;">"If applied, this commit will:"</span>
