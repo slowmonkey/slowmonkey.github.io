@@ -9,7 +9,7 @@ tags: [git]
 
 <p class="center-large">"If applied, this commit will:"</p>
 
-<p class="hide">cite: Stylesheet obtained from - <a href="code.mendhak.com">Mendhak</a></p>
+<p class="hide">cite: Stylesheet and guiding principle thought and obtained from - <a href="code.mendhak.com">Mendhak</a></p>
 
 <style type="text/css">
     .center-large {
