@@ -15,12 +15,12 @@ tags: [git]
     .center-large {
         left: 0;
         line-height: 200px;
-        margin-top: -100px !important;
+        margin-top: -200px !important;
         position: absolute;
         text-align: center;
         top: 50%;
         width: 100%;
-        font-size: 600%;
+        font-size: 550%;
     }
 
     .hide { 
