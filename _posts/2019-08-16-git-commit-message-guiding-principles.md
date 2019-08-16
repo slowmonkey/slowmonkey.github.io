@@ -13,7 +13,7 @@ tags: [git]
     .center-large {
         left: 0;
         line-height: 200px;
-        margin-top: -100px;
+        margin-top: -100px !important;
         position: absolute;
         text-align: center;
         top: 50%;
