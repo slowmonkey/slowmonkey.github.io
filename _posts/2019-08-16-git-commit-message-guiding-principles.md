@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git: Commit Messages Guiding Principles"
+title: "Git: Commit Message Guiding Principles"
 categories: [git]
 tags: [git]
 ---
