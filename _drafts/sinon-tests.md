@@ -12,3 +12,15 @@ Stubs
 Fakes
 
 Assertions
+
+SCENARIO: Function to be spied on and faked.
+
+describe('', function() {
+    it('', test(async function() {
+        let functionName = this.spy();
+
+        callingFunction(functionName);
+
+        sinon.assert.called(functionName);
+    }))
+});
