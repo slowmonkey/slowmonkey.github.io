@@ -5,7 +5,7 @@ categories: [setup]
 tags: [wsl, docker]
 ---
 
-# Introdcution
+# Introduction
 
 This is my cheatsheet for setting up WSL, Docker Desktop and a terminal.
 
