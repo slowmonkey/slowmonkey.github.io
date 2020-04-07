@@ -138,3 +138,7 @@ To ensure code differences across platforms with regards to line endings are ign
 ```
 git config --global core.autocrlf true
 ```
+
+## Keeagent/Keepass
+
+To ensure keepass serves ssh keys follow the setup instructions [here - How to use KeeAgent with WSL and Ubuntu](https://code.mendhak.com/keeagent-with-wsl/)
