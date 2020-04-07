@@ -36,7 +36,7 @@ You will need to reboot once that feature is installed.
 
 Get the linux distribution you want from the microsoft store. I've chosen Ubuntu 18.04 LTS.
 
-![Linux Distribution Setup](https://slowmonkey.github.io/assets/wsl-docker-desktop-microsoft-terminal-installation/linux-distro-setup)
+![Linux Distribution Setup](https://slowmonkey.github.io/assets/wsl-docker-desktop-microsoft-terminal-installation/linux-distro-setup.png)
 
 # Installing Microsoft Terminal
 
