@@ -5,9 +5,9 @@ categories: [setup]
 tags: [wsl, docker]
 ---
 
-# Introduction
-
 This is my cheatsheet for setting up WSL, Docker Desktop and a terminal.
+
+# Introduction
 
 For the linux distribution I have currently chosen Ubuntu.
 For the terminal I'm trailing the new Microsoft Terminal with tmux.
