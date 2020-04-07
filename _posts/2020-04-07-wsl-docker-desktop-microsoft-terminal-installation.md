@@ -128,3 +128,13 @@ options = "metadata"
 
 
 You should be ready to go now.
+
+# Tips
+
+## Git
+
+To ensure code differences across platforms with regards to line endings are ignored set the following in your global gitconfig for both windows and linux environments.
+
+```
+git config --global core.autocrlf true
+```
