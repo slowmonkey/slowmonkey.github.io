@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Smashtest command-line options mapped to smashtest.json"
-categories: [setup]
-tags: [wsl, docker]
+categories: [testing]
+tags: [smashtest]
 ---
 
 Specification for smashtest.json equivalents of the command-line options.
