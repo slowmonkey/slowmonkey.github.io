@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smashtest command-line options mapped to smashtest.json"
+title: "Smashtest: Command-line options mapped to smashtest.json"
 categories: [testing]
 tags: [smashtest]
 ---
