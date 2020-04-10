@@ -13,21 +13,21 @@ This post lists the [command-line options](https://smashtest.io/running-tests/co
 
 # Mappings
 
-## --debug=[hash]
+## \-\-debug=[hash]
 ``` json
 {
     "debug": "[hash]"
 }
 ```
 
-## --groups=[value] or --groups="group1,group2+group3"
+## \-\-groups=[value] or --groups="group1,group2+group3"
 ``` json
 {
     "groups": "group1,group2+group3"
 }
 ```
 
-## --g:[name]=[value]
+## \-\-g:[name]=[value]
 ``` json
 {
     "g:variableName1": "value1",
@@ -36,14 +36,14 @@ This post lists the [command-line options](https://smashtest.io/running-tests/co
 }
 ```
 
-## --headless=[true/false]
+## \-\-headless=[true/false]
 ``` json
 {
     "headless": true
 }
 ```
 
-## --max-parallel=[N]
+## \-\-max-parallel=[N]
 
 Any number above 0.
 
@@ -54,7 +54,7 @@ Any number above 0.
 ```
 
 
-## --max-screenshots=[N]
+## \-\-max-screenshots=[N]
 
 Any number above 0.
 
@@ -64,7 +64,7 @@ Any number above 0.
 }
 ```
 
-## --min-frequency=[high/med/low]
+## \-\-min-frequency=[high/med/low]
 
 Value can be `high`, `med`, or `low`.
 
@@ -74,21 +74,21 @@ Value can be `high`, `med`, or `low`.
 }
 ```
 
-## --no-debug
+## \-\-no-debug
 ``` json
 {
     "no-debug": ""
 }
 ```
 
-## --output-errors=[true/false]
+## \-\-output-errors=[true/false]
 ``` json
 {
     "output-errors": true
 }
 ```
 
-## --p:[name]=[value]
+## \-\-p:[name]=[value]
 ``` json
 {
     "p:variableName1": "value1",
@@ -97,21 +97,21 @@ Value can be `high`, `med`, or `low`.
 }
 ```
 
-## --random=[true/false]
+## \-\-random=[true/false]
 ``` json
 {
     "random": false
 }
 ```
 
-## --recursive
+## \-\-recursive
 ``` json
 {
     "recursive": ""
 }
 ```
 
-## --report-domain=[domain or domain:port]
+## \-\-report-domain=[domain or domain:port]
 It must be in the format 'domain' or 'domain:port'.
 
 ``` json
@@ -120,35 +120,35 @@ It must be in the format 'domain' or 'domain:port'.
 }
 ```
 
-## --report-history=[true/false]
+## \-\-report-history=[true/false]
 ``` json
 {
     "report-history": true
 }
 ```
 
-## --report-path="[absolute path]"
+## \-\-report-path="[absolute path]"
 ``` json
 {
     "report-path": "[absolute path]"
 }
 ```
 
-## --report-server=[true/false]
+## \-\-report-server=[true/false]
 ``` json
 {
     "report-server": true
 }
 ```
 
-## --screenshots=[true/false]
+## \-\-screenshots=[true/false]
 ``` json
 {
     "screenshots": true
 }
 ```
 
-## --skip-passed=[true/false/filename], -s, -a
+## \-\-skip-passed=[true/false/filename], -s, -a
 ``` json
 {
     "skip-passed": "true/false/filename as a string",
@@ -157,7 +157,7 @@ It must be in the format 'domain' or 'domain:port'.
 }
 ```
 
-## --step-data=[all/fail/none]
+## \-\-step-data=[all/fail/none]
 
 Value can be `all`, `fail`, or `none`.
 
@@ -167,7 +167,7 @@ Value can be `all`, `fail`, or `none`.
 }
 ```
 
-## --test-server=[url]
+## \-\-test-server=[url]
 ``` json
 {
     "test-server": "[url]"
