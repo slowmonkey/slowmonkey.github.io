@@ -17,6 +17,7 @@ For an indepth steps please see the original resource I followed the steps from.
 Original resource cite:  
     - [Using WSL and MobaXterm to Create a Linux Dev Environment on Windows](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)  
     - [Setting Up Docker for Windows and WSL to Work Flawlessly](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly)
+    - [WSL file permission issues](https://github.com/microsoft/vscode/issues/85778)
 
 # Prerequisites
 
@@ -120,8 +121,9 @@ sudo vi /etc/wsl.conf
 # Add the following in the file.
 
 [automount]
+enabled=true
 root = /
-options = "metadata"
+options="metadata,uid=1000,gid=1000,umask=22,fmask=111"
 ```
 
 **Restart!** your machine.
