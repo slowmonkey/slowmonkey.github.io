@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Learning Firebase"
-categories: [firebase]
-tags: [firebase]
+categories: [learning, firebase]
+tags: [learning, firebase]
 ---
 
 My experience with Firebase.
