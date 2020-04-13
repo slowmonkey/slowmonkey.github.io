@@ -1,1 +1,0 @@
-Running smashtest in a docker container
