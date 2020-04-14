@@ -11,7 +11,6 @@ github: [learning-docker](https://github.com/slowmonkey/learning-docker)
 
 {% include repo_card.html reponame="learning-docker" %}
 
-
 # Pre-requisites
 
 ## Windows
