@@ -79,7 +79,7 @@ services:
       - "4444:4444"
 ```
 
-[Selenium Grid via docker-compose](https://github.com/SeleniumHQ/docker-selenium)
+cite: [Selenium Grid via docker-compose](https://github.com/SeleniumHQ/docker-selenium)
 
 I copied the example docker-compose.yml in the above link for Version 3. Alterations I made were to use a later docker-compose version and to add my testserver service.
 
