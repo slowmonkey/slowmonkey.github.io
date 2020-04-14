@@ -13,6 +13,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-gems:
-  - jekyll-octicons
