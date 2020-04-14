@@ -37,6 +37,14 @@ The post structure and blog styles are all controlled by the following files:
 - _config.yml
 - index.html
 - _layouts/ folder
+- _includes
+- _sass
+
+# Citations
+
+## Github Repo Cards
+
+Obtained from [mendhak](https://code.mendhak.com/jekyll-widget-github-card/)
 
 # Wishlist for blog layout
 - Github link
