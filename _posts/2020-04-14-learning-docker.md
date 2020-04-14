@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Docker - Smashtest in docker 111"
+title: "Learning Docker - Smashtest in docker"
 categories: [learning, docker]
 tags: [learning, docker]
 ---
