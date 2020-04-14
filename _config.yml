@@ -5,6 +5,8 @@ avatar: https://avatars1.githubusercontent.com/u/1640786?s=400&u=8a4fb12c2808a08
 
 permalink: /:title
 
+theme: jekyll-theme-primer
+
 exclude:
   - Gemfile
   - Gemfile.lock
