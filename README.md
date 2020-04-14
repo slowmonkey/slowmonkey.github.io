@@ -46,11 +46,19 @@ The post structure and blog styles are all controlled by the following files:
 - _includes
 - _sass
 
+# Theme used
+
+[jekyll-theme-primer](https://github.com/pages-themes/primer)
+
 # Citations
 
 ## Github Repo Cards
 
 Obtained from [mendhak](https://code.mendhak.com/jekyll-widget-github-card/)
+
+## Customizing CSS
+
+[Customizing CSS and HTML in your Jekyll theme](https://help.github.com/en/enterprise/2.14/user/articles/customizing-css-and-html-in-your-jekyll-theme)
 
 # Wishlist for blog layout
 - Github link
