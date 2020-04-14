@@ -31,6 +31,12 @@ The markdown file has to be placed with a yyyy-mm-dd-title.md format in the _pos
 
 I am currently using _drafts as a folder to hold my draft posts and ideas.
 
+# Checking that the site is building
+
+To check that github is building your site without errors got to the `Settings` tab of your repository. It will show any build errors there.
+
+cite: [About Jekyll build errors for GitHub Pages sites](https://help.github.com/en/github/working-with-github-pages/about-jekyll-build-errors-for-github-pages-sites)
+
 # Blog Page Styles
 
 The post structure and blog styles are all controlled by the following files:
