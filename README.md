@@ -50,6 +50,16 @@ The post structure and blog styles are all controlled by the following files:
 
 [jekyll-theme-primer](https://github.com/pages-themes/primer)
 
+# How to add Font-Awesome
+
+Using the [jekyll-theme-primer](https://github.com/pages-themes/primer) repository copy `_layouts\default.html` into your repository.
+
+Change `index.html` to just have the content of the index.html without the html, head, body html tags.
+
+Add the font-awesome script into the <head></head> section.
+
+The font-awesome script can be obtained by signing in with an email and getting the generated script details.
+
 # Citations
 
 ## Github Repo Cards
