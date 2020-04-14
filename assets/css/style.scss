@@ -8,10 +8,10 @@
     margin-bottom: 0px;
 }
 
-.post h1 {
+.post h1:first-child {
     border-bottom: 2px solid $black;
 }
 
-.post h2 {
+.post h2:first-child {
     border-bottom: 2px solid $black;
 }
