@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
+# Common Git Commands
+
 |Command|Description|
 | --- | --- |
 |git init|Turns a directory into a git repository|
-|git clone [https/ssh url] [optional: Folder/Repository Name]|Clones the repository|
+|git clone [https/ssh url] [optional: name]|Clones the repository|
 |git status|Shows the state of repository|
 |git commit -m "[Message]"|Commits the staged changes with a message|
 |git commit -am|Adds and Commits the unstaged changes with a message|
