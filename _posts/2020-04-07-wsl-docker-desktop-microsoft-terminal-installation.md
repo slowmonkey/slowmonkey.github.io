@@ -29,7 +29,7 @@ Enable Windows
 
 Turn the following windows feature on - Windows Subsystem for Linux.
 
-![Enable WSL](https://slowmonkey.github.io/assets/wsl-docker-desktop-microsoft-terminal-installation/enabling-wsl.png)
+![Enable WSL](https://slowmonkey.github.io/assets/images/wsl-docker-desktop-microsoft-terminal-installation/enabling-wsl.png)
 
 You will need to reboot once that feature is installed.
 
@@ -37,7 +37,7 @@ You will need to reboot once that feature is installed.
 
 Get the linux distribution you want from the microsoft store. I've chosen Ubuntu 18.04 LTS.
 
-![Linux Distribution Setup](https://slowmonkey.github.io/assets/wsl-docker-desktop-microsoft-terminal-installation/linux-distro-setup.png)
+![Linux Distribution Setup](https://slowmonkey.github.io/assets/images/wsl-docker-desktop-microsoft-terminal-installation/linux-distro-setup.png)
 
 # Installing Microsoft Terminal
 
@@ -51,7 +51,7 @@ Install Docker Desktop for Windows from [here](https://hub.docker.com/editions/c
 
 Ensure daemon on tcp://localhostt:2375 without TLS is checked. Although it is not recommended to be set it is safe here as the daemon is bound to localhost.
 
-![Docker Desktop Configuration](https://slowmonkey.github.io/assets/wsl-docker-desktop-microsoft-terminal-installation/docker-desktop-configuration.png)
+![Docker Desktop Configuration](https://slowmonkey.github.io/assets/images/wsl-docker-desktop-microsoft-terminal-installation/docker-desktop-configuration.png)
 
 # Install Docker onto Linux
 
