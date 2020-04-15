@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Common Docker Commands
 ---
 # Common Docker Commands
 
