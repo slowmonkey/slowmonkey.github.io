@@ -1,9 +1,9 @@
 {% assign repository = site.github.public_repositories 
     | where: "name", include.reponame 
     | first %}
-<div class="github-repo-card ">
+<div class="github-repo-card">
   <div class="d-flex">
-    <h1>
+    <h1 class="github-repo-title">
       <a href="{{ repository.html_url }}">
         <i class="fab fa-git-alt gh-icon"></i><span> {{ repository.owner.login }} /</span>
         {{ repository.name }}

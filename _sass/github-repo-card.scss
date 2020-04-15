@@ -7,6 +7,8 @@
     border-radius: 3px !important;
     padding: 16px !important;
     margin-bottom: 16px;
+    margin-top: 16px;
+    border: 2px solid gray;
 }
 
 @media screen and (max-width: 1200px) {
@@ -40,6 +42,7 @@
     font-size: 18px !important;
     line-height: 1.25 !important;
     margin-bottom: 4px !important;
+    border-bottom: 0px !important;
 }
 
 .github-repo-card h1 .gh-icon {
