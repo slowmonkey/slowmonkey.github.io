@@ -7,7 +7,6 @@ tags: [raspberrypi, pihole]
 Pi-hole is network wide ad-blocking mechanism utilising a Raspberry Pi. It provides ad-blocking via a DHCP server and/or DNS Server.
 
 # Table Of Contents <!-- omit in toc -->
-- [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Installing an operating system onto the Raspberry Pi](#installing-an-operating-system-onto-the-raspberry-pi)
 - [Enabling the Raspberry Pi for SSH connectivity](#enabling-the-raspberry-pi-for-ssh-connectivity)
