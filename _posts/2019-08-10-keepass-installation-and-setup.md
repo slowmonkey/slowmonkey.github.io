@@ -11,7 +11,7 @@ Additional setup instructions included around:
 * adding TOTP (Time-based One-time Passwords) into KeePass
 * sharing the keepass database to family.
 
-# Table of Contents <!-- omit in toc -->
+<!-- # Table of Contents <!-- omit in toc -->
 
 - [Setting up Google Drive](#setting-up-google-drive)
 - [Installation KeePass Portable Version](#installation-keepass-portable-version)
