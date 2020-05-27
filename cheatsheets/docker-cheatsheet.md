@@ -13,3 +13,4 @@ title: Common Docker Commands
 |docker image ls|List images|
 |docker image prune -af|Forcibly remove all images|
 |docker volume prune|Remove all volumes|
+|docker system prune|Clears everything|
