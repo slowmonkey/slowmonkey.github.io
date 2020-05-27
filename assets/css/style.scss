@@ -2,20 +2,20 @@
 ---
 
 @import "{{ site.theme }}";
-// @import "github-repo-card";
+@import "github-repo-card";
 
-// .entry p {
-//     margin-bottom: 0px;
-// }
+.entry p {
+    margin-bottom: 0px;
+}
 
-// .index-title {
-//     border-bottom: 2px solid $black !important;
-// }
+.index-title {
+    border-bottom: 2px solid $black !important;
+}
 
-// .index-post-title {
-//     border-bottom: 2px solid $black !important;
-// }
+.index-post-title {
+    border-bottom: 2px solid $black !important;
+}
 
-// .github-repo-title {
-//     margin-top: 0px !important;
-// }
+.github-repo-title {
+    margin-top: 0px !important;
+}
