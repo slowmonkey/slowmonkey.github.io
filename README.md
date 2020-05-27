@@ -73,3 +73,4 @@ Obtained from [mendhak](https://code.mendhak.com/jekyll-widget-github-card/)
 # Wishlist for blog layout
 - Github link
 - Search?
+- Sidebar at the home page with a cheatsheet section? or a tab selection across

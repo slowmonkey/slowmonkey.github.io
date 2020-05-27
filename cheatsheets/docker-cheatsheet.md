@@ -12,3 +12,4 @@ title: Common Docker Commands
 |docker container prune -f|Forcibly delete all containers|
 |docker image ls|List images|
 |docker image prune -af|Forcibly remove all images|
+|docker volume prune|Remove all volumes|
