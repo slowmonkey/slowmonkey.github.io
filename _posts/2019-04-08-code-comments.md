@@ -3,16 +3,17 @@ layout: post
 title: "Code Comments"
 categories: [best-practices]
 tags: [coding-standards]
+excerpt: Guiding principles for code comments
 ---
 
 Code comments in code should generally be avoided. I mostly prefer self documenting code that removes the need for code comments.  
-
-However for the occasions that you do require code comments I prefer to write code comments surrounded by new lines/empty spaces.
-
-What does this mean?
-
-Don't write code comments that are adjacent to code.
-
+  
+However for the occasions that you do require code comments I prefer to write code comments surrounded by new lines/empty spaces.  
+  
+What does this mean?  
+  
+Don't write code comments that are adjacent to code.  
+  
 **Example:**
 
 ``` c#

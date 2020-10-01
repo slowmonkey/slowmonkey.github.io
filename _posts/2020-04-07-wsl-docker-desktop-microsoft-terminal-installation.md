@@ -3,6 +3,7 @@ layout: post
 title: "WSL 1, Docker Desktop & Microsoft Terminal Installation"
 categories: [setup]
 tags: [wsl, docker]
+excerpt: Setting up WSL 1
 ---
 
 Cheatsheet for setting up WSL, Docker Desktop and a terminal.

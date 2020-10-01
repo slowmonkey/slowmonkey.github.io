@@ -3,6 +3,7 @@ layout: post
 title: "Git: Commit Message Guiding Principles"
 categories: [git]
 tags: [git]
+excerpt: Git Commit message principles
 ---
 
 <p class="hide">Guiding principles for git commit messages.</p>

@@ -3,6 +3,7 @@ layout: post
 title: "Smashtest: Command-line options mapped to smashtest.json"
 categories: [testing]
 tags: [smashtest]
+excerpt: smashtest.json specifications
 ---
 
 Specification for smashtest.json equivalents of the command-line options.

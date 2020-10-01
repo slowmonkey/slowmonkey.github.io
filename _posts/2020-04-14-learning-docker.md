@@ -3,6 +3,7 @@ layout: post
 title: "Learning Docker - Smashtest in docker"
 categories: [learning, docker]
 tags: [learning, docker]
+excerpt: Learning how to set up docker containers using smashtest as the example application
 ---
 
 Learning how to create a docker container by creating a smashtest setup in docker.

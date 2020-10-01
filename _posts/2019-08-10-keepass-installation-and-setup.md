@@ -3,6 +3,7 @@ layout: post
 title: "KeePass: Installation & Setup"
 categories: [security]
 tags: [passwordmanager, keepass]
+excerpt: KeePass setup
 ---
 This post outlines the steps required to setup a portable KeePass application that synchronises to your google drive account.
 

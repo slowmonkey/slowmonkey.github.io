@@ -3,6 +3,7 @@ layout: post
 title: "Smashtest: Setting Local Storage"
 categories: [testing]
 tags: [smashtest, code-snippet]
+excerpt: Smashtest code snippet for local storage setup
 ---
 
 Code snippet for setting local storage values for smashtest testing.
