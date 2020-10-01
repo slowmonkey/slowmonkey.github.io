@@ -60,6 +60,16 @@ Add the font-awesome script into the <head></head> section.
 
 The font-awesome script can be obtained by signing in with an email and getting the generated script details.
 
+# How to run locally for development
+
+Ensure the following files are present:
+
+- Dockerfile
+- docker-compose.yml
+- Gemfile 
+
+Run `docker-compose up` and navigate to `localhost:4000`
+
 # Citations
 
 ## Github Repo Cards
