@@ -14,14 +14,17 @@ excerpt: Git Commit message principles
 
 <style type="text/css">
     .center-large {
-        left: 0;
+        display: block;
+        margin-top: 30% !important;
+        margin-left: auto;
+        margin-right: auto;
         line-height: 200px;
-        margin-top: -200px !important;
-        position: absolute;
         text-align: center;
-        top: 50%;
+        top: 75%;
+        font-size: 350%;
         width: 100%;
-        font-size: 550%;
+        color: rgb(0,0,0);
+        font-weight: 900;
     }
 
     .hide { 
