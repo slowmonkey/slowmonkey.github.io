@@ -37,7 +37,7 @@ Please note that any cloud storage of your choice can be used here.
 # Installation KeePass Portable Version
 
 1. Open a file manager window to the Google Drive Password folder on your local machine.
-2. Download the latest portable 2.x or higher version of [KeePass](https://keepass.info/download.html)
+2. Download the latest portable 2.x or higher version of [KeePass](https://keepass.info/download.html){:target="_blank"}
 3. Extract the KeePass zip file into your Google Drive Password folder. It should extract into a sub folder E.G.: KeePass-2.42
 4. Open the KeePass folder and pin the KeePass.exe to your taskbar.
 5. Create a new database, I just use myName.kbdx, on the Google Drive Password folder.
@@ -80,11 +80,11 @@ In otherwards open explorer to the database files and check that Google Drive is
 
 # Storing SSH Keys in KeePass
 
-Following the instructions [here](https://code.mendhak.com/keepass-and-keeagent-setup/) to setup KeePass to store your SSH Keys and to use KeePass for SSH authentication by other programs.
+Following the instructions [here](https://code.mendhak.com/keepass-and-keeagent-setup/){:target="_blank"} to setup KeePass to store your SSH Keys and to use KeePass for SSH authentication by other programs.
 
 # Adding TOTP to your KeePass entries
 
-[Download](https://sourceforge.net/projects/traytotp-kp2/) and add the TrayTOTP plugin.
+[Download](https://sourceforge.net/projects/traytotp-kp2/){:target="_blank"} and add the TrayTOTP plugin.
 
 # Sharing KeePass databases
 

@@ -30,9 +30,9 @@ Pi-hole is network wide ad-blocking mechanism utilising a Raspberry Pi. It provi
 
 This step has vastly improved from when I first bought the device.
 
-1. Go to [Raspberry Pi Downloads Section](https://www.raspberrypi.org/downloads/raspbian/)
+1. Go to [Raspberry Pi Downloads Section](https://www.raspberrypi.org/downloads/raspbian/){:target="_blank"}
 2. Download the recommended operating system's zip file. At the time of writing I opted to install the recommended Raspbian OS.
-3. Follow the steps in the link provided to write an image to the SD Card. [Installation Guide](https://www.raspberrypi.org/documentation/installation/installing-images/README.md).
+3. Follow the steps in the link provided to write an image to the SD Card. [Installation Guide](https://www.raspberrypi.org/documentation/installation/installing-images/README.md){:target="_blank"}.
 
 # Enabling the Raspberry Pi for SSH connectivity
 
@@ -60,7 +60,7 @@ This step has vastly improved from when I first bought the device.
    `raspberry`
 
 6. Change the password and store it somewhere safe. I recommend using a password manager.
-7. Follow the installation instructions [here](https://github.com/pi-hole/pi-hole)
+7. Follow the installation instructions [here](https://github.com/pi-hole/pi-hole){:target="_blank"}
 8. During the installation I just selected all the defaults.
 
 # Testing the Pi-hole
@@ -77,7 +77,7 @@ Once the installation has completed:
 
 # Configure devices on your network to use Pi-hole
 
-Follow the instructions [here](https://discourse.pi-hole.net/t/how-do-i-configure-my-devices-to-use-pi-hole-as-their-dns-server/245).
+Follow the instructions [here](https://discourse.pi-hole.net/t/how-do-i-configure-my-devices-to-use-pi-hole-as-their-dns-server/245){:target="_blank"}.
 
 # Issues I have encountered
 
@@ -87,7 +87,7 @@ I have noticed that my nest cams have struggled to connect to the internet. It e
 
 1. Re-enable the Router DHCP server until the nest cams are connected. The issue here I believe is when the IP Address lease expires I will encounter the same issue.
    
-2. Add the nest cam devices to the dnsmasq list to exclude the devices from filtering. Follow the instructions by **deathbybandaid** [here](https://discourse.pi-hole.net/t/exclude-certain-lan-addresses-from-filtering/2014/13)
+2. Add the nest cam devices to the dnsmasq list to exclude the devices from filtering. Follow the instructions by **deathbybandaid** [here](https://discourse.pi-hole.net/t/exclude-certain-lan-addresses-from-filtering/2014/13){:target="_blank"}
 
     Just incase the instructions are lost here is what was stated:
 

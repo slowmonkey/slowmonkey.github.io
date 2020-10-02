@@ -10,7 +10,7 @@ Specification for smashtest.json equivalents of the command-line options.
 
 # Introduction
 
-This post lists the [command-line options](https://smashtest.io/running-tests/command-line-options) to run the smashtest application via a json configuration file.
+This post lists the [command-line options](https://smashtest.io/running-tests/command-line-options){:target="_blank"} to run the smashtest application via a json configuration file.
 
 # Mappings
 

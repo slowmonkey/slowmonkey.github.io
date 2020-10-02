@@ -10,7 +10,7 @@ excerpt: Git Commit message principles
 
 <p class="center-large">"If applied, this commit will:"</p>
 
-<p class="hide">cite: Stylesheet and guiding principle thought and obtained from - <a href="code.mendhak.com">Mendhak</a>. Thanks TAFFLES!</p>
+<p class="hide">cite: Stylesheet and guiding principle thought and obtained from - <a href="code.mendhak.com" target="_blank">Mendhak</a>. Thanks TAFFLES!</p>
 
 <style type="text/css">
     .center-large {
