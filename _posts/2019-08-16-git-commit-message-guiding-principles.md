@@ -21,7 +21,7 @@ excerpt: Git Commit message principles
         line-height: 200px;
         text-align: center;
         top: 75%;
-        font-size: 350%;
+        font-size: 300%;
         width: 100%;
         color: rgb(0,0,0);
         font-weight: 900;
