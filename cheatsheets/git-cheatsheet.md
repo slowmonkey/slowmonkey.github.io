@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Common Git Commands
+layout: page
+title: Git Commands Cheatsheet
 ---
 # Common Git Commands
 

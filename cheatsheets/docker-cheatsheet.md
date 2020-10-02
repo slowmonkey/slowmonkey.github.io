@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Common Docker Commands
+layout: page
+title: Docker Commands Cheatsheet
 ---
 # Common Docker Commands
 

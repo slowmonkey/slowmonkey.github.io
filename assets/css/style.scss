@@ -1,7 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
 @import "github-repo-card";
 
 .entry p {
@@ -9,11 +8,11 @@
 }
 
 .index-title {
-    border-bottom: 2px solid $black !important;
+    border-bottom: 2px solid rgb(0,0,0) !important;
 }
 
 .index-post-title {
-    border-bottom: 2px solid $black !important;
+    border-bottom: 2px solid rgb(0,0,0) !important;
 }
 
 .github-repo-title {
