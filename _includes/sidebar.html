@@ -3,6 +3,9 @@
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>   -->
   <div class="container sidebar-sticky">
+
+    <a class="github-avatar-link" href="{{ site.baseurl }}"><img class="github-avatar-image" src="https://avatars1.githubusercontent.com/u/1640786?s=460&v=4" alt="Home"></a>
+
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
@@ -10,8 +13,6 @@
         </a>
       </h1>
     </div>
-
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}"><img src="https://avatars1.githubusercontent.com/u/1640786?s=30&v=4" alt="Home"></a>
 
     <nav class="sidebar-nav">
       {% comment %}
