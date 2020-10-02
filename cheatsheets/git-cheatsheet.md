@@ -2,7 +2,6 @@
 layout: page
 title: Git Commands Cheatsheet
 ---
-# Common Git Commands
 
 |Command|Description|
 | --- | --- |

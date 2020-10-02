@@ -2,7 +2,6 @@
 layout: page
 title: Docker Commands Cheatsheet
 ---
-# Common Docker Commands
 
 |Command|Description|
 | --- | --- |
