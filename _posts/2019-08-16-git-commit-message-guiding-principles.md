@@ -18,10 +18,10 @@ excerpt: Git Commit message principles
         margin-top: 30% !important;
         margin-left: auto;
         margin-right: auto;
-        line-height: 200px;
+        line-height: 150px;
         text-align: center;
         top: 75%;
-        font-size: 300%;
+        font-size: 270%;
         width: 100%;
         color: rgb(0,0,0);
         font-weight: 900;
