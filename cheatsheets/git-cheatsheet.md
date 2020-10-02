@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Git Commands Cheatsheet
+title: Git Cheatsheet
 ---
 
 |Command|Description|

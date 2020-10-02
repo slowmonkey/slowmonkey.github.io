@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Docker Commands Cheatsheet
+title: Docker Cheatsheet
 ---
 
 |Command|Description|
