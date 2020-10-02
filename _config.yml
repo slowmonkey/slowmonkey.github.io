@@ -9,8 +9,6 @@ permalink: /:title
 
 page_excerpts: true
 
-theme: jekyll-theme-primer
-
 github:
   repo: https://github.com/slowmonkey
 

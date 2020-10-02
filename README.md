@@ -4,6 +4,10 @@ This blog uses Jekyll (as a static site generator), supported by GitHub Pages as
 
 Currently, I'm using GitHub Pages to render and host this blog.
 
+To generate a github blog create a public github repository of the following name: 
+
+`<github-username>.github.io`
+
 # Creating a post
 
 A `MarkDown` file is create with the following structure
@@ -48,7 +52,9 @@ The post structure and blog styles are all controlled by the following files:
 
 # Theme used
 
-[jekyll-theme-primer](https://github.com/pages-themes/primer)
+[jekyll-theme-primer](https://github.com/pages-themes/primer){:target="_blank"}
+
+Update (2020-10-02): Migrated to [Hyde theme](https://github.com/poole/hyde){:target="_blank"}
 
 # How to add Font-Awesome
 
@@ -81,6 +87,4 @@ Obtained from [mendhak](https://code.mendhak.com/jekyll-widget-github-card/)
 [Customizing CSS and HTML in your Jekyll theme](https://help.github.com/en/enterprise/2.14/user/articles/customizing-css-and-html-in-your-jekyll-theme)
 
 # Wishlist for blog layout
-- Github link
 - Search?
-- Sidebar at the home page with a cheatsheet section? or a tab selection across
