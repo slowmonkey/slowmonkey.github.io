@@ -49,12 +49,12 @@
   
   html {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-size: 12px;
     line-height: 1.5;
   }
   @media (min-width: 38em) {
     html {
-      font-size: 20px;
+      font-size: 16px;
     }
   }
   
@@ -330,7 +330,7 @@
   
   .page,
   .post {
-    margin-bottom: 4em;
+    margin-bottom: 2em;
   }
   
   /* Blog post or page title */

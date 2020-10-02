@@ -3,8 +3,12 @@
 
 @import "github-repo-card";
 
+.entry {
+    font-size: 14px;
+}
+
 .entry p {
-    margin-bottom: 0px;
+    margin-bottom: 0px;    
 }
 
 .index-title {
@@ -18,10 +22,6 @@
 .github-repo-title {
     margin-top: 0px !important;
 }
-
-// .github-avatar-link {
-//     text-align: center;
-// }
 
 .github-avatar-image {
     display: block;
