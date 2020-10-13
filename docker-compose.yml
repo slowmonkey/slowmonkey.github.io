@@ -5,7 +5,7 @@ services:
         build:
             context: .
         image: slowmonkey/jekyll-site
-        command: "bundle exec jekyll serve --config _config.yml --host 0.0.0.0 --incremental --force_polling"
+        command: "bundle exec jekyll serve --config _config.yml --host 0.0.0.0 --drafts --incremental --force_polling"
         volumes:
             - ${PWD}:/srv/jekyll
         ports: 
