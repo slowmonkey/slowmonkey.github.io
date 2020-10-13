@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Firebase"
+title: "Learning Firebase - Basic Google Sign-in Application"
 categories: [learning, firebase]
 tags: [learning, firebase]
 excerpt: Learning how to connect an Android app to firebase
