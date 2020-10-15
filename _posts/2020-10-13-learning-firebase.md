@@ -148,8 +148,8 @@ A full application example can be found [here](https://github.com/slowmonkey/lea
 
 The application is based on tutorials from the following sites:
 
-- https://codesource.io/setting-up-google-authentication-in-a-kotlin-android-app/
-- https://github.com/googlesamples/google-services/blob/master/android/signin/app/src/main/java/com/google/samples/quickstart/signin/SignInActivity.java
+- [https://codesource.io/setting-up-google-authentication-in-a-kotlin-android-app/](https://codesource.io/setting-up-google-authentication-in-a-kotlin-android-app/){:target="_blank"}
+- [https://github.com/googlesamples/google-services/blob/master/android/signin/app/src/main/java/com/google/samples/quickstart/signin/SignInActivity.java](https://github.com/googlesamples/google-services/blob/master/android/signin/app/src/main/java/com/google/samples/quickstart/signin/SignInActivity.java){:target="_blank"}
 
 # Common errors
 
