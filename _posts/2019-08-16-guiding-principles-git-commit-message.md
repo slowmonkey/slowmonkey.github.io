@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guiding Principles: Git Commit Messages"
+title: "Guiding principles - Git Commit Messages"
 categories: [git]
 tags: [git, guiding-principles]
 excerpt: Guiding principles for Git commit messages

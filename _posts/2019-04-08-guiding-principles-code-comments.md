@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Code Comments"
+title: "Guiding principles - Code Comments"
 categories: [guiding-principles]
 tags: [guiding-principles]
 excerpt: Guiding principles for code comments
