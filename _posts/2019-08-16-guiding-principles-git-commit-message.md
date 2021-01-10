@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Git: Commit Message Guiding Principles"
+title: "Guiding Principles: Git Commit Messages"
 categories: [git]
-tags: [git]
-excerpt: Git Commit message principles
+tags: [git, guiding-principles]
+excerpt: Guiding principles for Git commit messages
 ---
 
 <p class="hide">Guiding principles for git commit messages.</p>

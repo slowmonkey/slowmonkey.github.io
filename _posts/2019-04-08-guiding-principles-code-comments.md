@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Code Comments"
-categories: [best-practices]
-tags: [coding-standards]
+categories: [guiding-principles]
+tags: [guiding-principles]
 excerpt: Guiding principles for code comments
 ---
 
