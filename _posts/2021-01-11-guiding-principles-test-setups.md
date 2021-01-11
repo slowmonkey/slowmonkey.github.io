@@ -26,5 +26,5 @@ If test setups are required because large test setups are needed this might poin
 
 # Arguments for **NOT** using test setups
 - Keeps tests isolated.
-- Keeps all the required understanding for a test in one method/location.
+- Keeps all the required understanding for a test in one method/location. It is difficult to understand a test if the test file is hundreds or thousands of lines long and you are required to scroll up and down to the test setup and tear downs to understand the test.
 - Reduces any code complexity via code coupling or unseen or difficult to see code dependencies.

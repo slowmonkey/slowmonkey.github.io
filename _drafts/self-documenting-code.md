@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Self Documenting Code"
-categories: [2019, best-practices]
-tags: [coding-standards]
+title: "Guiding Principles - Self Documenting Code"
+categories: [guiding-principles]
+tags: [guiding-principles]
 ---
 
 Having to code in **university** vs the **working** environment is unsurprisingly very different.  
