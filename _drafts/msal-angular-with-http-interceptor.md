@@ -35,6 +35,7 @@ Basic Setup
 # app.module.ts
 
 Add MsalModule as the last item in the imports section.
+Set 
 This is required
 
 Add MsalConfig then MsalInteceptor for httpinterception at the top of the providers section.
