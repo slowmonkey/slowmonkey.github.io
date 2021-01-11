@@ -20,7 +20,7 @@ The question you have to ask yourself is are the tests truly "similar" despite t
 
 # Arguments for using test setups
 - It reduces a large code file especially if the test sets up large data variables.
-- You can add a test tear down for each test setup easily.
+- Similar to the test setup tear down code can be added only once and re-used.
 
 # Arguments for **NOT** using test setups
 - Keeps tests isolated.
