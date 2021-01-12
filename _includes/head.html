@@ -30,4 +30,7 @@
     <!-- Scripts -->
     <script src="https://kit.fontawesome.com/9027950497.js" crossorigin="anonymous"></script>
 
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </head>

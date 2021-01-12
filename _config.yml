@@ -9,6 +9,8 @@ permalink: /:title
 
 page_excerpts: true
 
+google_analytics: G-3C8R7V7DF2
+
 github:
   repo: https://github.com/slowmonkey
 

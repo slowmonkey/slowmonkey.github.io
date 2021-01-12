@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KeePass: Usage"
+title: "KeePass: Common usage scenarios"
 categories: [security]
 tags: [passwordmanager, keepass]
 ---
