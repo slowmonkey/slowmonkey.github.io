@@ -14,6 +14,10 @@ Please note that I have obtained all my information from:
 
 I am merely writing down notes for myself here to replicate how to do this again and anything thing I'm finding lacking.
 
+# Introduction
+
+I'm mostly setting this up as a curiosity exercise to see which of my pages are being view and how to set up google analytics as well as how the reporting works.
+
 # Google Analytics
 
 When I started this I previously had an older account of Google Analytics (Universal Analytics). I upgraded the account to use the Google Analytics 4 data models.
@@ -55,3 +59,7 @@ google_analytics: UA—XXXXXXXX-X
 {% include analytics.html %}
 {% endif %}
 ```
+
+# Issues
+
+Can't seem to figure out how to view the report for page views. It looks like it's in the Life Cycle -> Engagement -> Pages and screens section but nothing is coming up. Will have to check on this later.
