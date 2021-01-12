@@ -16,7 +16,7 @@ I am merely writing down notes for myself here to replicate how to do this again
 
 # Introduction
 
-I'm mostly setting this up as a curiosity exercise to see which of my pages are being view and how to set up google analytics as well as how the reporting works.
+I'm mostly setting this up as an exercise in curiosity to see which of my pages are being viewed, how to set up google analytics and how the reporting works.
 
 # Google Analytics
 
