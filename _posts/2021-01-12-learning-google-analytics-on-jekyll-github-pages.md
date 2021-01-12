@@ -12,7 +12,7 @@ Please note that I have obtained all my information from:
 - [https://desiredpersona.com/google-analytics-jekyll/](https://desiredpersona.com/google-analytics-jekyll/)
 - [https://curtisvermeeren.github.io/2016/11/18/Jekyll-Google-Analytics.html](https://curtisvermeeren.github.io/2016/11/18/Jekyll-Google-Analytics.html)
 
-I am meerly writing down notes for myself here to replicate how to do this again and anything thing I'm finding lacking.
+I am merely writing down notes for myself here to replicate how to do this again and anything thing I'm finding lacking.
 
 # Google Analytics
 
