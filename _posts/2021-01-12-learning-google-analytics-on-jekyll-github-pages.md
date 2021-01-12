@@ -21,7 +21,7 @@ When I started this I previously had an older account of Google Analytics (Unive
 According to this site, [https://www.optimizesmart.com/google-analytics-4-ga4-vs-universal-analytics-what-is-the-difference/](https://www.optimizesmart.com/google-analytics-4-ga4-vs-universal-analytics-what-is-the-difference/), there seems to be a lot of differences around setup, models, and administration of the analytics.
 
 
-# Setting up Google Analytics for your Jekyll Site.
+# Setting up Google Analytics for your Jekyll Site
 
 Firstly after logging into your google analytics you will need to add a new property to your account.
 
