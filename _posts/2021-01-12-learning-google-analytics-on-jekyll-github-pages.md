@@ -32,9 +32,7 @@ Firstly after logging into your google analytics you will need to add a new prop
 1. Click the <i class="fas fa-cog"></i> to navigate to the admin page.
 2. Create a new property for the selected account you want.
 3. Go through the setup for the property.
-4. Add a new web datastream by copying the "Global Site Tag (gtag.js)" code with the following formatting to a new file labelled analytics.html in your _includes folder.   
-   
-  analytics.html
+4. Add a new web datastream by copying the "Global Site Tag (gtag.js)" code with the following formatting to a new file labelled **analytics.html** in your _includes folder.
 ```
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
