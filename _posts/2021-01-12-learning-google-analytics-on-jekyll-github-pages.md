@@ -49,7 +49,7 @@ Firstly after logging into your google analytics you will need to add a new prop
 google_analytics: UA—XXXXXXXX-X
 ```
 6. Add the following as the FIRST line after the <head> tag in the head.html   
-```liquid
+```
 {% raw %}{% if site.google_analytics and jekyll.environment == 'production' %}   
 {% include analytics.html %}   
 {% endif %}{% endraw %}   
