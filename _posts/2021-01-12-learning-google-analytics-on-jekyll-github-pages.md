@@ -55,9 +55,9 @@ google_analytics: UA—XXXXXXXX-X
 5. Add the following as the FIRST line after the <head> tag in the head.html
 
 ```
-{% if site.google_analytics and jekyll.environment == 'production' %}
+{% raw %}{% if site.google_analytics and jekyll.environment == 'production' %}
 {% include analytics.html %}
-{% endif %}
+{% endif %}{% endraw %}
 ```
 
 # Issues
