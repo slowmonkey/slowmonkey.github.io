@@ -57,4 +57,6 @@ Firstly after logging into your google analytics you will need to add a new prop
 
 # Issues
 
-Can't seem to figure out how to view the report for page views. It looks like it's in the Life Cycle -> Engagement -> Pages and screens section but nothing is coming up. Will have to check on this later.
+Can't seem to figure out how to view the report for page views.   
+It looks like it's in the Life Cycle -> Engagement -> Pages and screens section but nothing is coming up.   
+Will have to check on this later.
