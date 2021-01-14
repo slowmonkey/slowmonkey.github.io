@@ -9,7 +9,7 @@ excerpt: Learning how to display liquid expressions as raw code in posts
 To display a liquid expression in raw state for readers to view in a post add the following tags:
 
 ```
-**{% raw %}** <liquid expressions here> **{% endraw %}**
+**{% raw %}{% raw %}{% endraw %}** <liquid expressions here> **{% raw %}{% endraw %}{% endraw %}**
 ```
 
 Example:
