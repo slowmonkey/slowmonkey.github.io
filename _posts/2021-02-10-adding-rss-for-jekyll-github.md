@@ -8,7 +8,7 @@ excerpt: Learning how to an rss feed for jekyll-github-page site
 
 # Cite & Disclaimer
 
-Please note that I have obtained all my information from [https://dzhavat.github.io/2020/01/19/adding-an-rss-feed-to-github-pages.html]https://dzhavat.github.io/2020/01/19/adding-an-rss-feed-to-github-pages.html)
+Please note that I have obtained all my information from [https://dzhavat.github.io/2020/01/19/adding-an-rss-feed-to-github-pages.html](https://dzhavat.github.io/2020/01/19/adding-an-rss-feed-to-github-pages.html)
 
 I am merely writing down notes for myself here to replicate how to do this again and anything thing I'm finding lacking.
 
