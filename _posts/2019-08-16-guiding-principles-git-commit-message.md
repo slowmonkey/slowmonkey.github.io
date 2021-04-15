@@ -11,6 +11,7 @@ excerpt: Guiding principles for Git commit messages
 <p class="center-large">"If applied, this commit will:"</p>
 
 <p class="hide">cite: Stylesheet and guiding principle thought and obtained from - <a href="code.mendhak.com" target="_blank">Mendhak</a>. Thanks TAFFLES!</p>
+<p class="hide">cite: Original git commit message rule obtained from <a href="https://chris.beams.io/posts/git-commit/" target="_blank">Chris Beams</a>.</p>
 
 <style type="text/css">
     .center-large {
