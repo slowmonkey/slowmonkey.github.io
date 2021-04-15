@@ -50,7 +50,7 @@ Install Docker Desktop for Windows from [here](https://hub.docker.com/editions/c
 
 ## Configuring Docker Desktop
 
-Ensure daemon on tcp://localhostt:2375 without TLS is checked. Although it is not recommended to be set it is safe here as the daemon is bound to localhost.
+Ensure daemon on tcp://localhost:2375 without TLS is checked. Although it is not recommended to be set it is safe here as the daemon is bound to localhost.
 
 ![Docker Desktop Configuration](https://slowmonkey.github.io/assets/images/wsl-docker-desktop-microsoft-terminal-installation/docker-desktop-configuration.png){:target="_blank"}
 
