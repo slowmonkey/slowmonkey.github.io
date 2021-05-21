@@ -16,9 +16,9 @@ For the terminal I'm trailing the new Microsoft Terminal with tmux.
 For an indepth steps please see the original resource I followed the steps from.
 
 Original resource cite:  
-    - [Using WSL and MobaXterm to Create a Linux Dev Environment on Windows](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows){:target="_blank"} 
-    - [Setting Up Docker for Windows and WSL to Work Flawlessly](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly){:target="_blank"}
-    - [WSL file permission issues](https://github.com/microsoft/vscode/issues/85778){:target="_blank"}
+    - [Using WSL and MobaXterm to Create a Linux Dev Environment on Windows](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows){:target="_blank"}  
+    - [Setting Up Docker for Windows and WSL to Work Flawlessly](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly){:target="_blank"}  
+    - [WSL file permission issues](https://github.com/microsoft/vscode/issues/85778){:target="_blank"}  
 
 # Prerequisites
 
