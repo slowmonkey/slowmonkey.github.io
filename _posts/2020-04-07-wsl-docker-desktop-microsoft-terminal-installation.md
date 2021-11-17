@@ -16,9 +16,9 @@ For the terminal I'm trailing the new Microsoft Terminal with tmux.
 For an indepth steps please see the original resource I followed the steps from.
 
 Original resource cite:  
-    - [Using WSL and MobaXterm to Create a Linux Dev Environment on Windows](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows){:target="_blank"} 
-    - [Setting Up Docker for Windows and WSL to Work Flawlessly](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly){:target="_blank"}
-    - [WSL file permission issues](https://github.com/microsoft/vscode/issues/85778){:target="_blank"}
+    - [Using WSL and MobaXterm to Create a Linux Dev Environment on Windows](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows){:target="_blank"}  
+    - [Setting Up Docker for Windows and WSL to Work Flawlessly](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly){:target="_blank"}  
+    - [WSL file permission issues](https://github.com/microsoft/vscode/issues/85778){:target="_blank"}  
 
 # Prerequisites
 
@@ -50,7 +50,7 @@ Install Docker Desktop for Windows from [here](https://hub.docker.com/editions/c
 
 ## Configuring Docker Desktop
 
-Ensure daemon on tcp://localhostt:2375 without TLS is checked. Although it is not recommended to be set it is safe here as the daemon is bound to localhost.
+Ensure daemon on tcp://localhost:2375 without TLS is checked. Although it is not recommended to be set it is safe here as the daemon is bound to localhost.
 
 ![Docker Desktop Configuration](https://slowmonkey.github.io/assets/images/wsl-docker-desktop-microsoft-terminal-installation/docker-desktop-configuration.png){:target="_blank"}
 
