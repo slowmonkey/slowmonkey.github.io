@@ -10,7 +10,7 @@ A smashtest pattern for verifying the number of elements on the page.
 
 
 ```
-    * Verify {\{element_number}} exists for {\{element_finder}}
+    * Verify {{ "{{ element_number " }}}} exists for {{ "{{ element_finder " }}}}
 
         Get elements {
             let elements = await $$(l('element_number'));
