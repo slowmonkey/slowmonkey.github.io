@@ -13,7 +13,7 @@ A smashtest pattern for verifying the number of elements on the page.
     * Verify {{ "{{element_number" }}}} exists for {{ "{{element_finder" }}}}
 
         Get elements {
-            let elements = await $$(l('element_number'));
+            let elements = await $$(l('element_finder'));
             return elements.length;
         }
 
