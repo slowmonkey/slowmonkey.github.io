@@ -16,11 +16,11 @@ To escape without plugins, use the code below:
 
 ```
 {{ "{% this " }}%}
+{{ "{%"}} this " }}%}
 ```
 
 and for tags, to escape {{ "{{ this " }}}} use:
 
 ```
-{{"{{"}}"{{"{{ this "}}" }}}}
-{{ "{{ this " }}}}
+{{ "{{"}}"{{"{{ this "}}" }}}}
 ```
