@@ -18,6 +18,6 @@ A smashtest pattern for verifying the number of elements on the page.
         }
 
             Verify number of elements {
-                expect(prev.toString()).to.equal(l('element_number'));
+                expect(prev).to.equal(Number(l('element_number')));
             }
 ```
