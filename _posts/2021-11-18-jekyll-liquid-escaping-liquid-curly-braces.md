@@ -15,11 +15,12 @@ Please note that I have obtained all my information from [https://stackoverflow.
 To escape without plugins, use the code below:
 
 ```
-{{ "{{ \"{% this \" }}%}" }}
+{{ "{% this " }}%}
 ```
 
-and for tags, to escape {{ this }} use:
+and for tags, to escape {{ "{{ this " }}}} use:
 
 ```
-{{ "{{ \"{{ this \" }}}}" }}
+{{"{{"}}"{{"{{ this "}}" }}}}
+{{ "{{ this " }}}}
 ```
