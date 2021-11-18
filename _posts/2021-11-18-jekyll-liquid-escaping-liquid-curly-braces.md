@@ -10,12 +10,15 @@ excerpt: Jekyll | Liquid - Escaping liquid curly braces
 
 Please note that I have obtained all my information from [https://stackoverflow.com/questions/3426182/how-to-escape-liquid-template-tags](https://stackoverflow.com/questions/3426182/how-to-escape-liquid-template-tags)
 
+# Introduction
+
+This post shows how to post content that uses the liquid curly braces literally.
+
 # How-to
 
 To escape without plugins, use the code below:
 
 ```
-{{ "{% this " }}%}
 {{ "{{" }} "{{ "{% this" }} " }}%}
 ```
 
