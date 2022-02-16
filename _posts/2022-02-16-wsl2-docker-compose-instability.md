@@ -21,7 +21,7 @@ FileNotFoundError: [Errno 2] No such file or directory
 [21846] Failed to execute script docker-compose
 ```
 
-According to this forum, https://github.com/docker/compose/issues/7899, the issue seems to be an instability with WSL2 and the windows filesystem.
+According to this forum, [https://github.com/docker/compose/issues/7899](https://github.com/docker/compose/issues/7899), the issue seems to be an instability with WSL2 and the windows filesystem.
 
 The fix for this is to simply run:
 
