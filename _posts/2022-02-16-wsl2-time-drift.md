@@ -1,10 +1,10 @@
 
 ---
 layout: post
-title: "WSL2: Time drift issues"
+title: "WSL2 - Time drift issues"
 categories: [wsl2]
 tags: [wsl2]
-excerpt: WSL2: Time drift issues
+excerpt: WSL2 - Time drift issues
 ---
 
 This is a placeholder reminder for how to fix time drift issues with WSL2.
