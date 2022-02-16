@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "WSL2 + docker-compose instability issue"
+title: "WSL2, docker-compose instability issue"
 categories: [wsl2]
 tags: [wsl2,docker]
-excerpt: WSL2 + docker-compose instability issue
+excerpt: WSL2, docker-compose instability issue
 ---
 
 This is a placeholder reminder for when the following error is seen in WSL2 when trying to run docker-compose commands:
