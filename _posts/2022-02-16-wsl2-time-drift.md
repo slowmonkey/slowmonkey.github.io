@@ -19,11 +19,15 @@ wsl date
 
 To fix this run the following in WSL `sudo hwclock -s`
 
-Common error seen:
+Common errors seen:
 
 ```
 #8 7.104 E: Release file for http://security.debian.org/debian-security/dists/stable-security/InRelease is not valid yet (invalid for another 9h 26min 2s). Updates for this repository will not be applied.
 #8 7.104 E: Release file for http://deb.debian.org/debian/dists/stable-updates/InRelease is not valid yet (invalid for another 17h 57min 59s). Updates for this repository will not be applied.
+```
+
+```
+failed to solve: rpc error: code = Unknown desc = failed to solve with frontend dockerfile.v0: failed to create LLB definition: failed to do request: Head "https://registry-1.docker.io/v2/sqitch/sqitch/manifests/latest": net/http: TLS handshake timeout
 ```
 
 # citation:
