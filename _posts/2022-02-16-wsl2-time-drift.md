@@ -26,10 +26,6 @@ Common errors seen:
 #8 7.104 E: Release file for http://deb.debian.org/debian/dists/stable-updates/InRelease is not valid yet (invalid for another 17h 57min 59s). Updates for this repository will not be applied.
 ```
 
-```
-failed to solve: rpc error: code = Unknown desc = failed to solve with frontend dockerfile.v0: failed to create LLB definition: failed to do request: Head "https://registry-1.docker.io/v2/sqitch/sqitch/manifests/latest": net/http: TLS handshake timeout
-```
-
 # citation:
 
 This fix was found here: [https://stackoverflow.com/questions/65086856/wsl2-clock-is-out-of-sync-with-windows](https://stackoverflow.com/questions/65086856/wsl2-clock-is-out-of-sync-with-windows)
