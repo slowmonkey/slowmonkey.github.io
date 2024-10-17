@@ -11,7 +11,7 @@ title: Calendar Version Generator
 <br/>
 <br/>
 <p style="text-align: center;"><b>Version (Format used: YYYY.MM.DD.HHmmssSSS)</b></p>
-<p style="text-align: center; font-size: 32x;"><span id="calenderVersionValue"></span></p>
+<p style="text-align: center; font-size: 32px;"><span id="calenderVersionValue"></span></p>
 
 <!-- Include Day.js from a CDN -->
 
