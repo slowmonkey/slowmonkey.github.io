@@ -5,7 +5,7 @@ title: Calendar Version Generator
 
 <button id="generateButton">Generate Calendar Version</button>
 
-<p><b>Version (Format used: YYYYMMDDHHmmssSSS)</b></p>
+<p><b>Version (Format used: YYYY.MM.DD.HHmmssSSS)</b></p>
 <p><span id="calenderVersionValue"></span></p>
 
 <!-- Include Day.js from a CDN -->
@@ -16,7 +16,7 @@ title: Calendar Version Generator
     function generateCalendarVersion() {
         let now = dayjs();
 
-        let calendarVersion = now.format("YYYYMMDDHHmmssSSS");
+        let calendarVersion = now.format("YYYY.MM.DD.HHmmssSSS");
 
         document.getElementById('calenderVersionValue').textContent = calendarVersion;
     }
