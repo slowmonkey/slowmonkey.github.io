@@ -11,13 +11,17 @@ title: Calendar Version Generator
 <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
 
 <script>
-    let now = dayjs();
+    function generateCalendarVersion() {
+        let now = dayjs();
 
-    let calendarVersion = now.format("YYYYMMDDHHmmssSSS");
+        let calendarVersion = now.format("YYYYMMDDHHmmssSSS");
 
-    document.getElementById('calenderVersionValue').textContent = calendarVersion;
+        document.getElementById('calenderVersionValue').textContent = calendarVersion;
+    }
+
+    document.getElementById('generateVersionBtn').addEventListener('click', generateCalendarVersion);
 </script>
 
 ---
 
-**cite**: How to include day.js was done via ChatGPT
+**cite**: Code to generate was obtained via ChatGPT
