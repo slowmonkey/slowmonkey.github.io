@@ -20,7 +20,7 @@ title: Calendar Version Generator
         document.getElementById('calenderVersionValue').textContent = calendarVersion;
     }
 
-    document.getElementById('generateVersionBtn').addEventListener('click', generateCalendarVersion);
+    document.getElementById('generateButton').addEventListener('click', generateCalendarVersion);
 </script>
 
 ---
