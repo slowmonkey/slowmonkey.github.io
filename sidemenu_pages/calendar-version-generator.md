@@ -9,6 +9,7 @@ title: Calendar Version Generator
 <p><span id="calenderVersionValue"></span></p>
 
 <!-- Include Day.js from a CDN -->
+
 <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
 
 <script>
@@ -21,6 +22,12 @@ title: Calendar Version Generator
     }
 
     document.getElementById('generateButton').addEventListener('click', generateCalendarVersion);
+
+    // Run the function immediately when the page loads
+
+    window.onload = function() {
+        generateCalendarVersion();
+    };
 </script>
 
 ---
