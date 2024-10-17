@@ -25,4 +25,4 @@ title: Calendar Version Generator
 
 ---
 
-**cite**: Code to generate was obtained via ChatGPT. I was too lazy to figure it out.
+**cite**: Javascript code to generate was obtained via ChatGPT. I was too lazy to figure it out.
