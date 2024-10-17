@@ -3,10 +3,12 @@ layout: page
 title: Calendar Version Generator
 ---
 
-<button id="generateButton">Generate Calendar Version</button>
+<div style="text-align: center; margin-top: 20px;">
+    <button id="generateButton">Generate Calendar Version</button>
+</div>
 
 <p><b>Version (Format used: YYYY.MM.DD.HHmmssSSS)</b></p>
-<p><span id="calenderVersionValue"></span></p>
+<p style="text-align: center; font-size: 18px;"><span id="calenderVersionValue"></span></p>
 
 <!-- Include Day.js from a CDN -->
 
