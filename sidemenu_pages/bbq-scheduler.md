@@ -38,6 +38,7 @@ function displayIntervals(endTime) {
         { label: "Reheat Fire for Sear", minutes: 45 },
         { label: "Sear", minutes: 30 },
         { label: "Final Rest", minutes: 15 },
+        { label: "Finish Cooking", minutes: 0 },
     ];
 
     const endTimeParts = endTime.split(":");
