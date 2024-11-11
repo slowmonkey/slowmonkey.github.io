@@ -61,7 +61,6 @@ function displayIntervals(endTime) {
 </script>
   
 
-
-
-
-**cite**: Javascript code to generate was obtained via ChatGPT. I was too lazy to figure it out.
+<footer style="margin-top: 20px; padding: 10px; background-color: #f0f0f0; text-align: center;">
+    <p>**cite**: Javascript code to generate was obtained via ChatGPT. I was too lazy to figure it out.</p>
+</footer>
