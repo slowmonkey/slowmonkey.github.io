@@ -52,7 +52,7 @@ function displayIntervals(endTime) {
     let htmlContent = `<p>End time: ${endTime}</p><table><tr><th>Description</th><th>Interval</th><th>Time</th></tr>`;
     
     intervals.forEach(interval => {
-        if firstRound {
+        if (firstRound) {
             firstRound = false;
             continue;
         }
