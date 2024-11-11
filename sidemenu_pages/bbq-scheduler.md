@@ -15,7 +15,7 @@ Enter the time you wish to finish cooking by in the format HH:MM.
 
 <script>
 function calculateIntervals() {
-    let completionTime = document.getElementById("completionTime").value;;
+    let completionTime = document.getElementById("completionTime").value;
     
     // Regular expression to validate the time format (HH:MM)
     const timeFormat = /^([01]?[0-9]|2[0-3]):[0-5][0-9]$/;
@@ -49,19 +49,15 @@ function displayIntervals(endTime) {
     endDate.setHours(parseInt(endTimeParts[0]));
     endDate.setMinutes(parseInt(endTimeParts[1]));
 
-    let htmlContent = `<p>End time: ${endTime}</p><table><tr><th>Description</th><th>Interval</th><th>Time</th></tr>`;
+    let htmlContent = `<p>Completion time: ${endTime}</p><table><tr><th>Description</th><th>Interval</th><th>Time</th></tr>`;
     
     intervals.forEach(interval => {
-        if (firstRound) {
-            firstRound = false;
-            continue;
-        }
-        totalMinutes = totalMinutes - interval.minutes
         let intervalTime = new Date(endDate.getTime() - totalMinutes * 60000);
         let hours = intervalTime.getHours().toString().padStart(2, '0');
         let minutes = intervalTime.getMinutes().toString().padStart(2, '0');
         
         htmlContent += `<tr><td>${interval.label}</td><td>${interval.minutes}</td><td>${hours}:${minutes}</td></tr>`;
+        totalMinutes = totalMinutes - interval.minutes
     });
 
     htmlContent += "</table>";
