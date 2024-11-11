@@ -45,14 +45,14 @@ function displayIntervals(endTime) {
     endDate.setHours(parseInt(endTimeParts[0]));
     endDate.setMinutes(parseInt(endTimeParts[1]));
 
-    let htmlContent = `<p>End time: ${endTime}</p><table><thead>Description</thead><thead>Time</thead>`;
+    let htmlContent = `<p>End time: ${endTime}</p><table><tr><th>Description</th><th>Time</th></tr>`;
     
     intervals.forEach(interval => {
         let intervalTime = new Date(endDate.getTime() - interval.minutes * 60000);
         let hours = intervalTime.getHours().toString().padStart(2, '0');
         let minutes = intervalTime.getMinutes().toString().padStart(2, '0');
         
-        htmlContent += `<tr><td>${interval.label}</td><td>${hours}:${minutes}</td></tr>`;
+        htmlContent += `<tr><td>${interval.label}</td><td>${interval.minutes}</td><td>${hours}:${minutes}</td></tr>`;
     });
 
     htmlContent += "</table>";
