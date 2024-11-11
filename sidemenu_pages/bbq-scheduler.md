@@ -45,17 +45,17 @@ function displayIntervals(endTime) {
     endDate.setHours(parseInt(endTimeParts[0]));
     endDate.setMinutes(parseInt(endTimeParts[1]));
 
-    let htmlContent = `<p>End time: ${endTime}</p><ul>`;
+    let htmlContent = `<p>End time: ${endTime}</p><table><thead>Description</thead><thead>Time</thead>`;
     
     intervals.forEach(interval => {
         let intervalTime = new Date(endDate.getTime() - interval.minutes * 60000);
         let hours = intervalTime.getHours().toString().padStart(2, '0');
         let minutes = intervalTime.getMinutes().toString().padStart(2, '0');
         
-        htmlContent += `<li>${interval.label}: ${hours}:${minutes}</li>`;
+        htmlContent += `<tr><td>${interval.label}</td><td>${hours}:${minutes}</td></tr>`;
     });
 
-    htmlContent += "</ul>";
+    htmlContent += "</table>";
     document.getElementById("time-intervals").innerHTML = htmlContent;
 }
 </script>
@@ -63,5 +63,5 @@ function displayIntervals(endTime) {
 
 
 
-  
+
 **cite**: Javascript code to generate was obtained via ChatGPT. I was too lazy to figure it out.
