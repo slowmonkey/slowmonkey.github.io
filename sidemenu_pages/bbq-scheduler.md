@@ -59,5 +59,9 @@ function displayIntervals(endTime) {
     document.getElementById("time-intervals").innerHTML = htmlContent;
 }
 </script>
+  
 
+
+
+  
 **cite**: Javascript code to generate was obtained via ChatGPT. I was too lazy to figure it out.
