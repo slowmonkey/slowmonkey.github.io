@@ -28,19 +28,22 @@ function calculateIntervals() {
 }
 
 function displayIntervals(endTime) {
+    let firstRound = true;
+
     const intervals = [
-        { label: "Prep Meat", minutes: 190 },
-        { label: "Clean BBQ", minutes: 160 },
-        { label: "Prep Chimney", minutes: 130 },
-        { label: "Start Chimney", minutes: 125 },
-        { label: "Start Cooking", minutes: 105 },
-        { label: "Rest", minutes: 75 },
-        { label: "Reheat Fire for Sear", minutes: 45 },
-        { label: "Sear", minutes: 30 },
+        { label: "Prep Meat", minutes: 30 },
+        { label: "Clean BBQ", minutes: 30 },
+        { label: "Prep Chimney", minutes: 5 },
+        { label: "Start Chimney", minutes: 15 },
+        { label: "Cook", minutes: 30 },
+        { label: "Rest", minutes: 20 },
+        { label: "Reheat Fire for Sear", minutes: 20 },
+        { label: "Sear", minutes: 20 },
         { label: "Final Rest", minutes: 15 },
         { label: "Finish Cooking", minutes: 0 },
     ];
 
+    let totalMinutes = intervals.reduce((sum, interval) => sum + interval.minutes, 0);
     const endTimeParts = endTime.split(":");
     let endDate = new Date();
     endDate.setHours(parseInt(endTimeParts[0]));
@@ -49,7 +52,12 @@ function displayIntervals(endTime) {
     let htmlContent = `<p>End time: ${endTime}</p><table><tr><th>Description</th><th>Time</th></tr>`;
     
     intervals.forEach(interval => {
-        let intervalTime = new Date(endDate.getTime() - interval.minutes * 60000);
+        if firstRound {
+            firstRound = false;
+            continue;
+        }
+        totalMinutes = totalMinutes - interval.minutes
+        let intervalTime = new Date(endDate.getTime() - totalMinutes * 60000);
         let hours = intervalTime.getHours().toString().padStart(2, '0');
         let minutes = intervalTime.getMinutes().toString().padStart(2, '0');
         
