@@ -8,7 +8,7 @@ Enter the time you wish to finish cooking by in the format HH:MM.
 <form id="timeForm">
     <label for="completionTime">Completion Time (HH:MM):</label>
     <input type="text" id="completionTime" name="completionTime" placeholder="e.g., 14:30" required>
-    <button type="button" onclick="calculateIntervals()">Calculate</button>
+    <button type="submit" onclick="calculateIntervals()">Calculate</button>
 </form>
 
 <div id="time-intervals"></div>
