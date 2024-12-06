@@ -5,10 +5,10 @@ title: BBQ Scheduler
 
 Enter the time you wish to finish cooking by in the format HH:MM.
 
-<form id="timeForm">
+<form id="timeForm" onsubmit="calculateIntervals(event)">
     <label for="completionTime">Completion Time (HH:MM):</label>
     <input type="text" id="completionTime" name="completionTime" placeholder="e.g., 14:30" required>
-    <button type="submit" onclick="calculateIntervals()">Calculate</button>
+    <button type="submit">Calculate</button>
 </form>
 
 <div id="time-intervals"></div>
