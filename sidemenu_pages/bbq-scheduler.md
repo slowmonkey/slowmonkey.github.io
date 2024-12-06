@@ -15,6 +15,8 @@ Enter the time you wish to finish cooking by in the format HH:MM.
 
 <script>
 function calculateIntervals() {
+    event.preventDefault(); // Prevent form submission/reload
+    
     let completionTime = document.getElementById("completionTime").value;
     
     // Regular expression to validate the time format (HH:MM)
