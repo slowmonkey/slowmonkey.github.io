@@ -13,6 +13,8 @@ title: Calendar Version Generator
 <p style="text-align: center;"><b>Version (Format used: YYYY.MM.DD.HHmmssSSS)</b></p>
 <p style="text-align: center; font-size: 32px;"><span id="calenderVersionValue"></span></p>
 
+<p style="text-align: center; font-size: 32px;"><span id="calenderVersion1Value"></span></p>
+
 <!-- Include Day.js from a CDN -->
 
 <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
@@ -22,8 +24,10 @@ title: Calendar Version Generator
         let now = dayjs();
 
         let calendarVersion = now.format("YYYY.MM.DD.HHmmssSSS");
-
         document.getElementById('calenderVersionValue').textContent = calendarVersion;
+
+        let calendarVersion1 = now.format("YYYYMMDDHHmmssSSS");
+        document.getElementById('calenderVersion1Value').textContent = calendarVersion1;
     }
 
     document.getElementById('generateButton').addEventListener('click', generateCalendarVersion);
