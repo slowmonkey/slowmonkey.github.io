@@ -13,6 +13,10 @@ title: Calendar Version Generator
 <p style="text-align: center;"><b>Version (Format used: YYYY.MM.DD.HHmmssSSS)</b></p>
 <p style="text-align: center; font-size: 32px;"><span id="calenderVersionValue"></span></p>
 
+<br/>
+<br/>
+
+<p style="text-align: center;"><b>Version (Format used: YYYYMMDDHHmmssSSS)</b></p>
 <p style="text-align: center; font-size: 32px;"><span id="calenderVersion1Value"></span></p>
 
 <!-- Include Day.js from a CDN -->
@@ -41,4 +45,4 @@ title: Calendar Version Generator
 
 ---
 
-**cite**: Javascript code to generate was obtained via ChatGPT. I was too lazy to figure it out.
+**cite**: Part of the Javascript code to generate was obtained via ChatGPT. I was too lazy to figure it out.
