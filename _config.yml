@@ -18,9 +18,17 @@ plugins:
 github:
   repo: https://github.com/slowmonkey
 
+repository: slowmonkey/slowmonkey.github.io
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
+
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:name/
+    layout: "recipe"

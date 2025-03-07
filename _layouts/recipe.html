@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+
+  <b>Prep Time:</b> {{ page.preptime }}<br>
+  <b>Cook Time:</b> {{ page.cooktime }}<br>
+  <b>Serves:</b> {{ page.serves }}<br>
+
+  <h2>Ingredients</h2>
+  {% for ingredient in page.ingredients %}
+    <li>{{ ingredient }}</li>
+  {% endfor %}
+
+  <h2>Instructions</h2>
+  {% for instruction in page.instructions %}
+    <li>{{ instruction }}</li>
+  {% endfor %}
+
+  <h3>Notes</h3>
+  {{ content }}
+
+  <h4>citations</h4>
+  <a href="{{ page.cite }}" target="_blank">{{ page.cite }}</a>
+</div>
