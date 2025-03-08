@@ -10,14 +10,18 @@ layout: default
   <b>Serves:</b> {{ page.serves }}<br>
 
   <h2>Ingredients</h2>
+  <ul>
   {% for ingredient in page.ingredients %}
     <li>{{ ingredient }}</li>
   {% endfor %}
+  </ul>
 
   <h2>Instructions</h2>
+  <ul>
   {% for instruction in page.instructions %}
     <li>{{ instruction }}</li>
   {% endfor %}
+  </ul>
 
   <h3>Notes</h3>
   {{ content }}
