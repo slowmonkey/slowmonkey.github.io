@@ -7,7 +7,7 @@ ingredients:
   - 250g of Guanciale or more
   - 120g of grated Pecorino Romano
   - 100-200ml of chicken stock, using about 2-3 teaspoons of stock powder
-  - [Optional] Dried Chilli Flakes
+  - (Optional) Dried Chilli Flakes
 instructions:
   - Cut the guanciale into strips.
   - Slice the tomatoes in half length ways
