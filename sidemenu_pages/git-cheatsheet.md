@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Git Cheatsheet
+category: programming
 ---
 
 |Command|Description|

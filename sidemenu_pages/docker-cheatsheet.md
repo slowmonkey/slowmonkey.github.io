@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Docker Cheatsheet
+category: programming
 ---
 
 |Command|Description|

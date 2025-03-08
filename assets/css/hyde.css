@@ -88,6 +88,7 @@
   .sidebar-nav {
     margin-bottom: 1rem;
   }
+ 
   .sidebar-nav-item {
     display: block;
     line-height: 1.75;
@@ -99,7 +100,13 @@
   .sidebar-nav-item.active {
     font-weight: bold;
   }
+  .sidebar-nav-header {
+    font-size: 24px !important;
+    font-weight: bold;
+    margin-top: 100px;
+  }
   
+
   /* Sticky sidebar
    *
    * Add the `sidebar-sticky` class to the sidebar's container to affix it the
@@ -114,8 +121,7 @@
       left:   1rem;
     }
   }
-  
-  
+
   /* Container
    *
    * Align the contents of the site above the proper threshold with some margin-fu

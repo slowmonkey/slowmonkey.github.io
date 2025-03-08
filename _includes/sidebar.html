@@ -1,7 +1,9 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+    {% assign pages_list = site.pages %}
 
-    <a class="github-avatar-link" href="/"><img class="github-avatar-image" src="https://avatars1.githubusercontent.com/u/1640786?s=460&v=4" alt="Home"></a>
+    <a class="github-avatar-link" href="/"><img class="github-avatar-image"
+        src="https://avatars1.githubusercontent.com/u/1640786?s=460&v=4" alt="Home"></a>
 
     <div class="sidebar-about">
       <h1>
@@ -13,21 +15,42 @@
 
     <nav class="sidebar-nav">
       {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      <div class="sidebar-nav-header">Personal</div>
+
       {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
+      {% if node.category == "personal" %}
+      {% if node.title != null %}
+      {% if node.layout == "page" %}
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
+        }}</a>
+      {% endif %}
+      {% endif %}
+      {% endif %}
       {% endfor %}
+
+      <br><br>
+
+      <div class="sidebar-nav-header">Programming</div>
+
+      {% for node in pages_list %}
+      {% if node.category == "programming" %}
+      {% if node.title != null %}
+      {% if node.layout == "page" %}
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
+        }}</a>
+      {% endif %}
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+
     </nav>
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}" alt="GitHub project" target="_blank"><i class="fab fa-github"></i></a>
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}" alt="GitHub project" target="_blank"><i
+        class="fab fa-github"></i></a>
 
     <a class="sidebar-nav-item" href="/feed.xml" target="_blank"><i class="fas fa-rss"></i></a>
 

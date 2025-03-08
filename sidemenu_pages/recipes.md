@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Recipes
+category: personal
 ---
 
 <div class="posts">

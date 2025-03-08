@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Calendar Version Generator
+category: programming
 ---
 
 <div style="text-align: center; margin-top: 20px;">

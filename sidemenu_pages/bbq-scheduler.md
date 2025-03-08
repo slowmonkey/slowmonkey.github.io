@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BBQ Scheduler
+category: personal
 ---
 
 Enter the time you wish to finish cooking by in the format HH:MM.
