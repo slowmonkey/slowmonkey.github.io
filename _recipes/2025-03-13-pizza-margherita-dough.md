@@ -6,7 +6,7 @@ ingredients:
   - 600 ml Water 2.5 cups. Room temperature
   - 0.5 - 1 gram instant yeast
   - 30 grams Sea salt 2 tbps
-  instructions:
+instructions:
   - In a kitchen aid mix 600ml water + 30g salt
   - Add 100g flour
   - Once the flour has dissolved, add the fresh yeast until it has dissolved
