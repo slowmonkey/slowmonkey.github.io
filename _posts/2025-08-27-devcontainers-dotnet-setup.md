@@ -100,3 +100,9 @@ dotnet sln add Api
 dotnet sln add Api.Tests
 dotnet add Api.Tests/Api.Tests.csproj reference Api/Api.csproj
 ```
+
+## 3.3 Additional Information
+
+To add AutoFixture package to test proj
+
+`dotnet add Api.Tests/Api.Tests.csproj package AutoFixture
