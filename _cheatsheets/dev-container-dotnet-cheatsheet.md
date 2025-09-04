@@ -1,6 +1,6 @@
 ---
 layout: cheatsheet
-title: Dev Container: Dotnet commands
+title: Dev Container - Dotnet commands
 category: programming
 ---
 
