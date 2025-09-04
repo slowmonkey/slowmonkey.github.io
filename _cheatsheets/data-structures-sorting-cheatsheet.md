@@ -4,7 +4,7 @@ title: Data Structures & Sorting Cheatsheet
 category: programming
 ---
 
-# Data Structures & Sorting Cheat Sheet
+# Data Structures Quick Reference
 
 | Structure / Algorithm                 | Search (Avg) | Insert (Avg) | Delete (Avg) | Search (Worst) | Insert (Worst) | Delete (Worst) | **Sort Time**                                             |
 | ------------------------------------- | ------------ | ------------ | ------------ | -------------- | -------------- | -------------- | --------------------------------------------------------- |
@@ -28,7 +28,7 @@ category: programming
 | **B-Tree / B+Tree**                   | O(log n)     | O(log n)     | O(log n)     | O(log n)       | O(log n)       | O(log n)       | **O(n log n)**                                            |
 
 
-## Sorting Algorithms Quick Reference
+# Sorting Algorithms Quick Reference
 
 | Algorithm          | Best       | Average    | Worst      | Stable? | Notes                                                   |
 | ------------------ | ---------- | ---------- | ---------- | ------- | ------------------------------------------------------- |
