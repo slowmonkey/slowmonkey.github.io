@@ -32,3 +32,8 @@ collections:
     output: true
     permalink: /:collection/:name/
     layout: "recipe"
+
+  cheatsheets:
+    output: true
+    permalink: /:collection/:name/
+    layout: "cheatsheet"
