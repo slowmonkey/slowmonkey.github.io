@@ -27,7 +27,7 @@ category: programming
 | **Tree Map / Ordered Map**            | O(log n)     | O(log n)     | O(log n)     | O(log n)       | O(log n)       | O(log n)       | **O(n log n)**                                            |
 | **Skip List Map**                     | O(log n)     | O(log n)     | O(log n)     | O(n)           | O(n)           | O(n)           | **O(n log n)**                                            |
 | **Trie Map (string keys)**            | O(k)         | O(k)         | O(k)         | O(k)           | O(k)           | O(k)           | **O(n·k)** (prefix order)                                 |
-| **B-Tree / B+Tree**                   | O(log n)     | O(log n)     | O(log n)     | O(log n)       | O(log n)       | O(log n)       | **O(n log n)**
+| **B-Tree / B+Tree**                   | O(log n)     | O(log n)     | O(log n)     | O(log n)       | O(log n)       | O(log n)       | **O(n log n)**                                            |
 
 
 ## Sorting Algorithms Quick Reference

@@ -4,34 +4,39 @@
     border-collapse: collapse;
     margin: 1.5rem 0;
     font-size: 0.95rem;
+    background-color: #ffffff; // white background
 
     th,
     td {
-      border: 1px solid #e2e8f0; // light gray border
+      border: 1px solid #d1d5db; // light gray border
       padding: 8px 12px;
       text-align: center;
     }
 
     th {
-      background-color: #1a202c; // dark header
-      color: #f7fafc;           // white text
+      background-color: #f1f5f9; // light gray-blue for header
+      color: #111827;            // near-black text
       font-weight: 600;
+      position: sticky;          // <-- sticky header
+      top: 0;                    // stick to top of scroll container
+      z-index: 2;                // stay above other rows
     }
 
     tr:nth-child(even) {
-      background-color: #f7fafc; // zebra striping
+      background-color: #f9fafb; // subtle zebra striping
     }
 
     tr:hover {
-      background-color: #edf2f7; // highlight on hover
+      background-color: #f3f4f6; // highlight on hover
     }
 
     td {
       font-family: monospace;
+      color: #374151; // dark gray for readability
     }
 
     td strong {
-      color: #2b6cb0; // blue highlight
+      color: #2563eb; // blue highlight for complexities
     }
   }
 }
