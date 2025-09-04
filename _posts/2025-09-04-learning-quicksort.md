@@ -12,7 +12,11 @@ Noting down QuickSort for everytime I have to remember it for interviews.
 
 # How QuickSort works in my words
 
-Quick sort uses a value in the array as a starting point to partition the array items into left/low and right/high side.
+1. Pick a value as the starting point
+2. Move the lower values to the left and the higher values to the right. 
+3. The algorithm will put the pivot value in the correct spot.
+4. Now you have 2 smaller piles. Note that the piles are not necessarily sorted.
+5. With each pile repeat the steps above.
 
 # Code
 

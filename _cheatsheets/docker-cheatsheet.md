@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cheatsheet
 title: Docker Cheatsheet
 category: programming
 ---

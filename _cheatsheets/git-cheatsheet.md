@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cheatsheet
 title: Git Cheatsheet
 category: programming
 ---
