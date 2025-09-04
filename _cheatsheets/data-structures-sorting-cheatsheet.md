@@ -4,6 +4,8 @@ title: Data Structures & Sorting Cheatsheet
 category: programming
 ---
 
+<div class="cheatsheet">
+
 # Data Structures & Sorting Cheat Sheet
 
 | Structure / Algorithm                 | Search (Avg) | Insert (Avg) | Delete (Avg) | Search (Worst) | Insert (Worst) | Delete (Worst) | **Sort Time**                                             |
@@ -41,3 +43,5 @@ category: programming
 | **Counting Sort**  | O(n + k)   | O(n + k)   | O(n + k)   | Yes     | For integers in a limited range                         |
 | **Radix Sort**     | O(n·k)     | O(n·k)     | O(n·k)     | Yes     | k = digit/key length                                    |
 | **Bucket Sort**    | O(n + k)   | O(n + k)   | O(n²)      | Depends | Works best with uniform distribution                    |
+
+</div>
