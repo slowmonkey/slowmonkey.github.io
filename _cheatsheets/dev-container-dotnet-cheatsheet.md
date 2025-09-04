@@ -12,3 +12,4 @@ category: programming
 | `dotnet sln add Api` <br> `dotnet sln add Api.Tests` | Add csproj to solution |
 | `dotnet add Api.Tests/Api.Tests.csproj reference Api/Api.csproj` | Add reference of a csproj to another |
 
+{: .cheatsheet}
