@@ -18,7 +18,10 @@ Noting down QuickSort for everytime I have to remember it for interviews.
 4. Now you have 2 smaller piles. Note that the piles are not necessarily sorted.
 5. With each pile repeat the steps above.
 
-# Code
+# Code 
+<div>
+<a class="sidebar-nav-item" href="(https://github.com/slowmonkey/learning-quicksort" alt="GitHub - Learning QuickSort Repo" target="_blank"><i class="fab fa-github"></i></a>
+</div>
 
 ```
 namespace Learnings;
