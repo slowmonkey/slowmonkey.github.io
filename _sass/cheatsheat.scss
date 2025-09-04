@@ -1,0 +1,37 @@
+.cheatsheet {
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+
+    th,
+    td {
+      border: 1px solid #e2e8f0; // light gray border
+      padding: 8px 12px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #1a202c; // dark header
+      color: #f7fafc;           // white text
+      font-weight: 600;
+    }
+
+    tr:nth-child(even) {
+      background-color: #f7fafc; // zebra striping
+    }
+
+    tr:hover {
+      background-color: #edf2f7; // highlight on hover
+    }
+
+    td {
+      font-family: monospace;
+    }
+
+    td strong {
+      color: #2b6cb0; // blue highlight
+    }
+  }
+}
