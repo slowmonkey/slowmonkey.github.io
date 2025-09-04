@@ -94,8 +94,8 @@ How to setup a c# solution with
 
 ```
 dotnet new sln -n MySolution
-dotnet new classlib Api
-dotnet new xunit Api.Tests
+dotnet new classlib -n Api
+dotnet new xunit -n Api.Tests
 dotnet sln add Api
 dotnet sln add Api.Tests
 dotnet add Api.Tests/Api.Tests.csproj reference Api/Api.csproj
