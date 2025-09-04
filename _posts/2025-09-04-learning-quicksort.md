@@ -19,8 +19,8 @@ Noting down QuickSort for everytime I have to remember it for interviews.
 5. With each pile repeat the steps above.
 
 # Code 
-<div>
-<a class="sidebar-nav-item" href="(https://github.com/slowmonkey/learning-quicksort" alt="GitHub - Learning QuickSort Repo" target="_blank"><i class="fab fa-github"></i></a>
+Code Repository: <div>
+<a class="sidebar-nav-item" href="https://github.com/slowmonkey/learning-quicksort" alt="GitHub - Learning QuickSort Repo" target="_blank"><i class="fab fa-github"></i></a>
 </div>
 
 ```
