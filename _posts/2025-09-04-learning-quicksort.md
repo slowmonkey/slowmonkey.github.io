@@ -98,3 +98,8 @@ A worse case scenario for QuickSort is when the pivot value used splits the arra
 To avoid this you can mitigate it by doing some of the following:
 - User different stragegy of selecting the pivot value. eg. Randomly or using a median of some sort.
 - Change to a different sort if the recursion depth traversed is too deep.
+
+# Space Complexity
+
+Best and average case it has O(log n) space complexity.
+Worst case it has O(n) space complexity.
