@@ -42,6 +42,8 @@ public class Learnings
         int[] left = new int[middleIndex];
         int[] right = new int[items.Length - middleIndex];
 
+        // Syntax: Array.Copy(source_array, source_starting_index, destination_array, destination_array_starting_index, number_of_items_to_copy)
+
         Array.Copy(items, 0, left, 0, middleIndex);
         Array.Copy(items, middleIndex, right, 0, items.Length - middleIndex);
 
