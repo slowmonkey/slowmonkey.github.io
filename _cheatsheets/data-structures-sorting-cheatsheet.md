@@ -13,6 +13,8 @@ category: programming
 | **Singly Linked List**                | O(n)         | O(1)         | O(1)         | O(n)           | O(1)           | O(1)           | **O(n log n)** (merge sort)                               |
 | **Doubly Linked List**                | O(n)         | O(1)         | O(1)         | O(n)           | O(1)           | O(1)           | **O(n log n)** (merge sort)                               |
 | **Stack**                             | O(n)         | O(1)         | O(1)         | O(n)           | O(1)           | O(1)           | N/A                                                       |
+| **Priority Queue (Heap)**             | O(n)         | O(log n)     | O(log n)     | O(n)           | O(log n)       | O(log n)       | **O(n log n)**                                            |
+                                                        |
 | **Queue**                             | O(n)         | O(1)         | O(1)         | O(n)           | O(1)           | O(1)           | N/A                                                       |
 | **Deque**                             | O(n)         | O(1)         | O(1)         | O(n)           | O(1)           | O(1)           | N/A                                                       |
 | **Binary Search Tree (BST)**          | O(log n)     | O(log n)     | O(log n)     | O(n)           | O(n)           | O(n)           | **O(n log n)** (in-order traversal + rebalance if needed) |
