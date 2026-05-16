@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Climbing Video List
-category: climbing
+category: personal
 ---
 
 # Climbing Videos List
