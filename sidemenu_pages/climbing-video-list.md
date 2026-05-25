@@ -17,6 +17,7 @@ category: personal
 [Mutton Bird - Dyno (V9)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvELXiuDZA4eigEE8zLYNcV)  
 [Mutton Bird - Ken Lee (V7)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLuD4Pxf6ATyZix22GdABXe8)  
 [Point King - Hung Parliament (V5)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLsFnR0HgsGhsiNirx-PUfyL)  
+[Point King - King Slayer Direct (V11)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvbZxTe2pZzaV_GkrldvVnm)  
 [Winjan - Cannonball (V5)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLuhQMTWCVPaD4FoHjtXo0ej)  
 [Winjan - D.I.G (V8)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLssHqkGq9w8w9whScoOFvCV)  
 [Winjan - Freestyler (V5)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvofnuoX_z2vV_fI7Uy7M0I)  
