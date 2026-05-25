@@ -19,6 +19,7 @@ category: personal
 [Point King - Hung Parliament (V5)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLsFnR0HgsGhsiNirx-PUfyL)  
 [Point King - King Slayer Direct (V11)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvbZxTe2pZzaV_GkrldvVnm)  
 [The Gap - Fire In The Hole (V7)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLurdF5t-C0F_zlb8PD9sGBO)  
+[The Gap - Sea Sick (V7)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLuhx8xQjBsRPHQE6WbxH5EY)  
 [Winjan - Cannonball (V5)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLuhQMTWCVPaD4FoHjtXo0ej)  
 [Winjan - D.I.G (V8)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLssHqkGq9w8w9whScoOFvCV)  
 [Winjan - Freestyler (V5)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvofnuoX_z2vV_fI7Uy7M0I)  
