@@ -4,8 +4,6 @@ title: Climbing Video List
 category: personal
 ---
 
-# Climbing Videos List
-
 ## Working Videos
 
 ### Boulders
@@ -18,6 +16,7 @@ category: personal
 [Mutton Bird - Ken Lee (V7)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLuD4Pxf6ATyZix22GdABXe8)  
 [Point King - Hung Parliament (V5)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLsFnR0HgsGhsiNirx-PUfyL)  
 [Point King - King Slayer Direct (V11)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvbZxTe2pZzaV_GkrldvVnm)  
+[Point King - Scholarly Activity (V7)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLtr51D9dxQWZWejAXlvHY8u)  
 [The Gap - Fire In The Hole (V7)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLurdF5t-C0F_zlb8PD9sGBO)  
 [The Gap - Sea Sick (V7)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLuhx8xQjBsRPHQE6WbxH5EY)  
 [Winjan - Cannonball (V5)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLuhQMTWCVPaD4FoHjtXo0ej)  
