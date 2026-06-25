@@ -26,9 +26,10 @@ category: personal
 [Winjan - I Saw (V6) - Al](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvbc_HsqCUlziR2yD_h0lmD)  
 [Winjan - Unleashed (V8)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvw3Unxf1slABkt2CpKujg_)  
 
-#### Peter
+#### Other's
 
 [Mutton Bird - The Arete (V5)](https://youtu.be/ltUgEzU1jZ0)
+[Mutton Bird - Ken Lee (V7) - Pete & Dave](https://www.youtube.com/playlist?list=PLCGCwu0Qcy80)
 
 
 ### Routes
