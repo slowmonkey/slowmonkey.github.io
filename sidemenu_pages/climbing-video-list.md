@@ -7,6 +7,7 @@ category: personal
 ## Working Videos
 
 ### Boulders
+[Denmark - Killer Bee (V8)](https://www.youtube.com/playlist?list=PLPz-1HgmBWCo)
 [Eagle Trail Boulders - Two Scoops Please (V6)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLssaGIoDV-skkkyw4WAhSV1)  
 [Heritage Trail Boulders - The Muffin Man (V8)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLu1wh1qVGe6oPPemSj7zvCq)  
 [Kamikaze Boulders - Live Action (V9)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvjIGvZKbQbXxLDMs-lxrgp)  
