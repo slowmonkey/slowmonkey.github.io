@@ -7,8 +7,9 @@ category: personal
 ## Working Videos
 
 ### Boulders
-[Cheynes Beach - Wanderlust (V8)](https://www.youtube.com/playlist?list=PLPxs9lh5Gcg8)
-[Denmark - Killer Bee (V8)](https://www.youtube.com/playlist?list=PLPz-1HgmBWCo)
+[Cheynes Beach - Bender's Amazing Roof & Bender's Amazing Roof RHV - V7](https://www.youtube.com/playlist?list=PLJje1GLdg5mw)  
+[Cheynes Beach - Wanderlust (V8)](https://www.youtube.com/playlist?list=PLPxs9lh5Gcg8)  
+[Denmark - Killer Bee (V8)](https://www.youtube.com/playlist?list=PLPz-1HgmBWCo)  
 [Eagle Trail Boulders - Two Scoops Please (V6)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLssaGIoDV-skkkyw4WAhSV1)  
 [Heritage Trail Boulders - The Muffin Man (V8)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLu1wh1qVGe6oPPemSj7zvCq)  
 [Kamikaze Boulders - Live Action (V9)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvjIGvZKbQbXxLDMs-lxrgp)  
@@ -30,8 +31,8 @@ category: personal
 
 #### Other's
 
-[Mutton Bird - The Arete (V5)](https://youtu.be/ltUgEzU1jZ0)
-[Mutton Bird - Ken Lee (V7) - Pete & Dave](https://www.youtube.com/playlist?list=PLCGCwu0Qcy80)
+[Mutton Bird - The Arete (V5)](https://youtu.be/ltUgEzU1jZ0)  
+[Mutton Bird - Ken Lee (V7) - Pete & Dave](https://www.youtube.com/playlist?list=PLCGCwu0Qcy80)  
 
 
 ### Routes
