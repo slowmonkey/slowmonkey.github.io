@@ -32,7 +32,7 @@ category: personal
 #### Other's
 
 [Mutton Bird - The Arete (V5)](https://youtu.be/ltUgEzU1jZ0)  
-[Mutton Bird - Ken Lee (V7) - Pete & Dave](https://www.youtube.com/playlist?list=PLCGCwu0Qcy80)  
+[Mutton Bird - Ken Lee (V7) - Pete & Dave](https://www.youtube.com/playlist?list=PLCGCwu0Qcy80)   
 
 
 ### Routes
