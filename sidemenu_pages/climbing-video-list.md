@@ -7,6 +7,7 @@ category: personal
 ## Working Videos
 
 ### Boulders
+[Boulder Rock - Watermelon Left - V6](https://www.youtube.com/playlist?list=PLMyUGctCr3Z8)  
 [Cheynes Beach - Bender's Amazing Roof & Bender's Amazing Roof RHV - V7](https://www.youtube.com/playlist?list=PLJje1GLdg5mw)  
 [Cheynes Beach - Wanderlust (V8)](https://www.youtube.com/playlist?list=PLPxs9lh5Gcg8)  
 [Denmark - Killer Bee (V8)](https://www.youtube.com/playlist?list=PLPz-1HgmBWCo)  
