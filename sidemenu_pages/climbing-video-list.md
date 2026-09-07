@@ -31,6 +31,7 @@ category: personal
 [Winjan - D.I.G (V8)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLssHqkGq9w8w9whScoOFvCV)  
 [Winjan - Freestyler (V5)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvofnuoX_z2vV_fI7Uy7M0I)  
 [Winjan - I Saw (V6) - Al](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvbc_HsqCUlziR2yD_h0lmD)  
+[Winjan - The Nose (V7)](https://www.youtube.com/playlist?list=PLaLw8syOjp-E)
 [Winjan - Unleashed (V8)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvw3Unxf1slABkt2CpKujg_)  
 
 #### Other's
