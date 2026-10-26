@@ -21,6 +21,7 @@ category: personal
 [Kamikaze Boulders - Underbelly (V9)](https://www.youtube.com/playlist?list=PLLH8RATt-jqg)  
 [Mountain Quarry - The Full Monty (V11)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLtXSFh3s0AUkISaqwBMNocO)  
 [Mt Randall - Do First Think Later (V7)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLsb8aK_t5E8Qpfa7sHRVs2e)   
+[Mt Randall - Eye Candy (V8)](https://www.youtube.com/playlist?list=PLArpv5VHIk3w)  
 [Mutton Bird - Dyno (V9)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvELXiuDZA4eigEE8zLYNcV)  
 [Mutton Bird - Ken Lee (V7)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLuD4Pxf6ATyZix22GdABXe8)  
 [Point King - Hung Parliament (V5)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLsFnR0HgsGhsiNirx-PUfyL)  
