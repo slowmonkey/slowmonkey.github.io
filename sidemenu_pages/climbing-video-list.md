@@ -37,8 +37,8 @@ category: personal
 [Winjan - I Saw (V6) - Al](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvbc_HsqCUlziR2yD_h0lmD)  
 [Winjan - The Nose (V7)](https://www.youtube.com/playlist?list=PLaLw8syOjp-E)  
 [Winjan - Unleashed (V8)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvw3Unxf1slABkt2CpKujg_)  
-[Winjan - Uno Mas (V10)](https://www.youtube.com/playlist?list=PLaaN3DGHWWiU)
-[Wyadup - The Deluxe (V8)](https://www.youtube.com/playlist?list=PLS1Kb_2j85Lg)
+[Winjan - Uno Mas (V10)](https://www.youtube.com/playlist?list=PLaaN3DGHWWiU)  
+[Wyadup - The Deluxe (V8)](https://www.youtube.com/playlist?list=PLS1Kb_2j85Lg)  
 
 #### Other's
 
