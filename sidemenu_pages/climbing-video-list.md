@@ -28,6 +28,7 @@ category: personal
 [Point King - Hung Parliament (V5)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLsFnR0HgsGhsiNirx-PUfyL)  
 [Point King - King Slayer Direct (V11)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLvbZxTe2pZzaV_GkrldvVnm)   
 [Point King - Scholarly Activity (V7)](https://www.youtube.com/playlist?list=PLmL-3YU6lBLtr51D9dxQWZWejAXlvHY8u)  
+[Susso Boulders - Crescent Moon Proj](https://www.youtube.com/playlist?list=PLFlkPI4gAQ00)  
 [Susso Boulders - Full House (V5)](https://www.youtube.com/playlist?list=PLandGVYKkKTU)  
 [Susso Boulders - Learning To Fly (V5)](https://www.youtube.com/playlist?list=PLWKVNU8fjcGI)  
 [The Frontier - Unicorn (V5)](https://www.youtube.com/playlist?list=PLZbkwG_K1cSw)  
